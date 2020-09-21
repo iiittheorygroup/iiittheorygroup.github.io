@@ -1,2 +1,6 @@
-# iiittheorygroup.github.io
-IIIT Theory Group Website
+IIIT Theory Group
+=================
+
+Initiatives
+-----------
+[Seminar Saturdays](Initiatives/Seminar-Saturdays.md)
