@@ -33,7 +33,7 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 
 [Lean Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 
-[Slides](talk_27_09_20_theorem_proving.pdf)
+[Talk Slides](talk_27_09_20_theorem_proving.pdf) and [Recording](https://www.youtube.com/watch?v=tzM9acXSmtU)
 
 </p></details>
 
@@ -48,7 +48,7 @@ Most of my talk will be directly from material in Origami Design Secrets, 2nd Ed
 None! 
 
 ### Resources
-[Slides](https://docs.google.com/presentation/d/1YZXazUE1Tv8IZhOKNho903jNZn1V-ibD0HDHSbcmGAI/)
+[Talk Slides](https://docs.google.com/presentation/d/1YZXazUE1Tv8IZhOKNho903jNZn1V-ibD0HDHSbcmGAI/) and [Recording](https://www.youtube.com/watch?v=Ikgq1AdFpAY)
 
 </p></details>
 <details><summary>(#004) <b>Spectral Graph Theory</b> - Tanmay Kumar Sinha</summary><p>
