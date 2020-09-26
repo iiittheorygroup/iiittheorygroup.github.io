@@ -23,7 +23,7 @@ Past Talks
 An introduction to Proof Assistants, and how automated theorem proving actually works. We will see how to formally specify math propositions and proofs to a computer so that they can be verified.
 
 
-# Prerequisites
+### Prerequisites
 None! Just basic high school math.
 
 
