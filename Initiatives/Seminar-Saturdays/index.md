@@ -64,9 +64,7 @@ The main resource will be 1st and possibly 2nd chapter of the book Spectra of Gr
 
 </p></details>
 
-<details><summary>(#003) <b>Complexity Theory</b> - Arjun P</summary><p>
-
-### Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT
+<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - Arjun P</summary><p>
 
 ### Abstract
 We'll look at a trivial-looking randomized approximation algorithm for MAX-E3SAT, the problem of satisfying as many clauses as possible in a special kind of 3SAT instance. We'll then introduce the probabilistic method and see how it can use our algorithm to say something about the satisfiability of arbitrary E3SAT instances. Finally, we will discuss how one could obtain a deterministic approximation algorithm for the same problem.
