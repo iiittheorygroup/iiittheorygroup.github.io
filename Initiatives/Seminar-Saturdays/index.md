@@ -5,7 +5,8 @@ An initiative where one student presents something of their choice every week. I
 
 Usually hosted on our MS Teams group, or Discord. 
 
-[Events Calendar](http://tiny.cc/IIITHTheoryEvents)
+- [Events Calendar](http://tiny.cc/IIITHTheoryEvents)
+- [List of invited speakers](https://www.notion.so/309ab96760ee4560b32051e441f96ce7?v=ec9825866c404aedbd20fe909227362d)
 
 Upcoming Talks
 --------------
