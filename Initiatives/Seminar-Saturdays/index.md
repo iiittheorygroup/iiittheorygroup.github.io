@@ -96,6 +96,9 @@ Presenting the proof from Dummit & Foote, so that is the reading material (secti
 ### Prerequisites
 Basic definitions, homomorphisms, actions, Lagrange's theorem, Isomorphism Theorems, Class Equation
 
+### Resources
+[Talk Slides](talk_29_08_20_sylow.pdf)
+
 </p></details>
 
 <details><summary>(#001) <b>Quantum Approximate Counting</b> - Aditya Morolia</summary><p>
