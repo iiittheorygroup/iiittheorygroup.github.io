@@ -1,14 +1,16 @@
 Seminar Saturdays
 =================
 
-An initiative where one student presents something of their choice every week. It could be a research paper/topic/field/concept etc. A short 30-45 minute presentation, followed by a Q/A session.  
+An initiative where one student presents something of their choice every week. It could be a research paper/topic/field/concept etc. A short 30-45 minute presentation, followed by a Q/A session.
 
-Usually hosted on our MS Teams group, or Discord. 
+Usually hosted on our MS Teams group, or Discord.
 
 [Events Calendar](http://tiny.cc/IIITHTheoryEvents)
 
 Upcoming Talks
 --------------
+Past Talks
+----------
 <details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi : 03-08-2020</summary><p>
 
 ### Abstract
@@ -18,12 +20,12 @@ Hailed as the queen of mathematics, number theory is one of the most accessible,
 Highschool level understanding of number theory; specifically GCD, pythagorean triples and modular arithmetic (congruence mod n relation).
 
 ### Resources
-None! Just come and enjoy the show 
+None! Just come and enjoy the show
+
+[Talk Slides](talk_04_10_20_flt4.pdf) and [Recording](https://www.youtube.com/watch?v=yU7YCuNdV3Q)
 
 </p></details>
 
-Past Talks
-----------
 <details><summary>(#006) <b>Automated Theorem Proving</b> - Anurudh Peduri</summary><p>
 
 ### Automated Theorem Proving: A humble computer's Math PhD dissertation
@@ -49,12 +51,12 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 <details><summary>(#005) <b>Origami ∩ Math</b> - Athreya C</summary><p>
 
 ### Abstract
-Will approach the problem of Origami design from a math persepective. I will try to motivate why this is important, and then try to give some insight into how the techniques behind modern Origami design were developed by giving some key moments in its history. Finally I will describe one of the most powerful and generalizable techniques to design Origami.  
+Will approach the problem of Origami design from a math persepective. I will try to motivate why this is important, and then try to give some insight into how the techniques behind modern Origami design were developed by giving some key moments in its history. Finally I will describe one of the most powerful and generalizable techniques to design Origami.
 
 Most of my talk will be directly from material in Origami Design Secrets, 2nd Edition by Robert J. Lang
 
 ### Prerequisites
-None! 
+None!
 
 ### Resources
 [Talk Slides](https://docs.google.com/presentation/d/1YZXazUE1Tv8IZhOKNho903jNZn1V-ibD0HDHSbcmGAI/) and [Recording](https://www.youtube.com/watch?v=Ikgq1AdFpAY)
@@ -65,7 +67,7 @@ None!
 ### Abstract
 I will be covering introductory material on spectral graph theory(defining the matrices associated to a graph, some properties of these matrices, and then some graph theory problems that can be solved using linear algebraic methods)
 
-### Prerequisites 
+### Prerequisites
 Basic linear algebra and graph theory
 
 ### Resources
@@ -82,7 +84,7 @@ We'll look at a trivial-looking randomized approximation algorithm for MAX-E3SAT
 Basic probability and expectations, linearity of expectations, conditional expectation. Knowing what 3SAT and NP-Completeness are would be required to appreciate the significance, but not necessarily to follow the discussion [For the latter, consult any textbook on complexity theory, e.g., Arora-Barak]
 
 ### Resources
-This slideshow (page 7 & 8) are most of the content of the talk: https://cse.buffalo.edu/~hungngo/classes/2008/694/notes/rr-sat.pdf. From a quick google, I couldn't find anything that talks about it in more detail for this particular problem, but the ideas are the same. This technique for derandomization is called the method of conditional expectations. 
+This slideshow (page 7 & 8) are most of the content of the talk: https://cse.buffalo.edu/~hungngo/classes/2008/694/notes/rr-sat.pdf. From a quick google, I couldn't find anything that talks about it in more detail for this particular problem, but the ideas are the same. This technique for derandomization is called the method of conditional expectations.
 
 For more on the probabilistic method, you can see the textbook titled (surprise!) the Probabilistic Method by Alon & Spencer.
 
