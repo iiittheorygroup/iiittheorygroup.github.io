@@ -9,9 +9,31 @@ Usually hosted on our MS Teams group, or Discord.
 
 Upcoming Talks
 --------------
+
+<details><summary>(#008) <b>p-adics</b> - Siddharth Bhat : 10-10-2020</summary><p>
+  
+### Abstract 
+The integers and polynomials of a single variable look tantalizingly similar. Many of our intuitions about factorizations, primality, GCD, LCM, and other number-theoretic operations work "equally well" on  single-variable polynomials. 
+
+However, single-variable polynomials appear to provide a richer theory at first glance:  We can evaluate polynomials, differentiate them, take their taylor series expansion, and other operations which are hinged on the ability to interpret a polynomial as a function. We shall embark on a quest to port these operations back into number-land. This will lead us to eventually define the p-adics, which can be viewed as the "correct way" to transport the ability to evaluate a single-variable polynomial back into the integers. 
+
+Some cute counter intuitive results will be shown. Delight shall hopefully be had. No theorems of consequence will be  demonstrated, since my knowledge of these p-adics is limited.
+
+### Resources
+The reference material for the talk is the first three to four chapters of the book, "p-adic numbers, an introduction" by Fernando Gouvea: https://www.springer.com/us/book/9783642590580
+
+</p></details>
+
+<details><summary>(#007) <b>A Tour On Optimization Methods</b> - Jayadev Naram : 17-10-2020</summary><p>
+
+### Abstract
+TBA
+
+</p></details>
+
 Past Talks
 ----------
-<details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi : 03-08-2020</summary><p>
+<details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi : 03-10-2020</summary><p>
 
 ### Abstract
 Hailed as the queen of mathematics, number theory is one of the most accessible, yet most abstract areas of mathematics. Fermat's Last Theorem, which states that there are no positive integers a, b, c such that a^n + b^n = c^n  for any integer value of n > 2, remaind unsolved for 358 years and is the theorem with the largest number of unsuccessful proofs. Although the proof for any n uses heavy machinery from algebraic number theory (indeed, the conjecture drove the development of much of it), the proof for the special case n=4 uses a technique named infinite descent and is accessible. This talk demonstrates application of infinite descent to the n=4 case and two proofs for the same.
