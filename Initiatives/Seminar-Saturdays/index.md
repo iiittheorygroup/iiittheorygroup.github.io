@@ -24,7 +24,7 @@ The reference material for the talk is the first three to four chapters of the b
 
 </p></details>
 
-<details><summary>(#007) <b>A Tour On Optimization Methods</b> - Jayadev Naram : 17-10-2020</summary><p>
+<details><summary>(#009) <b>A Tour On Optimization Methods</b> - Jayadev Naram : 17-10-2020</summary><p>
 
 ### Abstract
 TBA
@@ -48,7 +48,7 @@ None! Just come and enjoy the show
 
 </p></details>
 
-<details><summary>(#006) <b>Automated Theorem Proving</b> - Anurudh Peduri</summary><p>
+<details><summary>(#006) <b>Automated Theorem Proving</b> - Anurudh Peduri : 26-09-2020</summary><p>
 
 ### Automated Theorem Proving: A humble computer's Math PhD dissertation
 
@@ -70,7 +70,7 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 
 </p></details>
 
-<details><summary>(#005) <b>Origami ∩ Math</b> - Athreya C</summary><p>
+<details><summary>(#005) <b>Origami ∩ Math</b> - Athreya C : 19-09-2020</summary><p>
 
 ### Abstract
 Will approach the problem of Origami design from a math persepective. I will try to motivate why this is important, and then try to give some insight into how the techniques behind modern Origami design were developed by giving some key moments in its history. Finally I will describe one of the most powerful and generalizable techniques to design Origami.
@@ -84,7 +84,7 @@ None!
 [Talk Slides](https://docs.google.com/presentation/d/1YZXazUE1Tv8IZhOKNho903jNZn1V-ibD0HDHSbcmGAI/) and [Recording](https://www.youtube.com/watch?v=Ikgq1AdFpAY)
 
 </p></details>
-<details><summary>(#004) <b>Spectral Graph Theory</b> - Tanmay Kumar Sinha</summary><p>
+<details><summary>(#004) <b>Spectral Graph Theory</b> - Tanmay Kumar Sinha : 12-09-2020</summary><p>
 
 ### Abstract
 I will be covering introductory material on spectral graph theory(defining the matrices associated to a graph, some properties of these matrices, and then some graph theory problems that can be solved using linear algebraic methods)
@@ -97,7 +97,7 @@ The main resource will be 1st and possibly 2nd chapter of the book Spectra of Gr
 
 </p></details>
 
-<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - Arjun P</summary><p>
+<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - Arjun P : 05-09-2020</summary><p>
 
 ### Abstract
 We'll look at a trivial-looking randomized approximation algorithm for MAX-E3SAT, the problem of satisfying as many clauses as possible in a special kind of 3SAT instance. We'll then introduce the probabilistic method and see how it can use our algorithm to say something about the satisfiability of arbitrary E3SAT instances. Finally, we will discuss how one could obtain a deterministic approximation algorithm for the same problem.
@@ -112,7 +112,7 @@ For more on the probabilistic method, you can see the textbook titled (surprise!
 
 </p></details>
 
-<details><summary>(#002) <b>Sylow's theorem & unsolvability of the quintic</b> - Bharathi Ramana Joshi</summary><p>
+<details><summary>(#002) <b>Sylow's theorem & unsolvability of the quintic</b> - Bharathi Ramana Joshi : 29-08-2020</summary><p>
 
 ### Abstract
 Presenting the proof from Dummit & Foote, so that is the reading material (section 4.5 does Sylow's theorem)
@@ -125,7 +125,7 @@ Basic definitions, homomorphisms, actions, Lagrange's theorem, Isomorphism Theor
 
 </p></details>
 
-<details><summary>(#001) <b>Quantum Approximate Counting</b> - Aditya Morolia</summary><p>
+<details><summary>(#001) <b>Quantum Approximate Counting</b> - Aditya Morolia : 22-08-2020</summary><p>
 
 ### Abstract
 Presentation of the paper [Quantum Approximate Counting, Simplified](https://arxiv.org/pdf/1908.10846.pdf)
