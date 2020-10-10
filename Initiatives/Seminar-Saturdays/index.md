@@ -33,7 +33,7 @@ TBA
 
 Past Talks
 ----------
-<details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi : 03-10-2020</summary><p>
+<details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi</summary><p>
 
 **Date & Time:** 03-10-2020, 22:15 IST
 
@@ -105,7 +105,7 @@ The main resource will be 1st and possibly 2nd chapter of the book Spectra of Gr
 
 </p></details>
 
-<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - Arjun P : 05-09-2020</summary><p>
+<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - Arjun P</summary><p>
 
 **Date & Time:** 05-09-2020, 21:00 IST
 
