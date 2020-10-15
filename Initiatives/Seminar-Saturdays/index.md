@@ -125,6 +125,8 @@ This slideshow (page 7 & 8) are most of the content of the talk: https://cse.buf
 
 For more on the probabilistic method, you can see the textbook titled (surprise!) the Probabilistic Method by Alon & Spencer.
 
+[Talk Slides](talk_05_09_20_e3sat.pdf)
+
 </p></details>
 
 <details><summary>(#002) <b>Sylow's theorem & unsolvability of the quintic</b> - Bharathi Ramana Joshi</summary><p>
