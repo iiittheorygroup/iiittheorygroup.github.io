@@ -34,6 +34,8 @@ Some cute counter intuitive results will be shown. Delight shall hopefully be ha
 ### Resources
 The reference material for the talk is the first three to four chapters of the book, "p-adic numbers, an introduction" by Fernando Gouvea: https://www.springer.com/us/book/9783642590580
 
+[Talk Slides](talk_10_10_20_padics.pdf) and [Recording](https://www.youtube.com/watch?v=95vqTNmMe9s)
+
 </p></details>
 
 <details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi</summary><p>
