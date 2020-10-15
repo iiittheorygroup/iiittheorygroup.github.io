@@ -10,7 +10,19 @@ Usually hosted on our MS Teams group, or Discord.
 Upcoming Talks
 --------------
 
-<details><summary>(#008) <b>p-adics</b> - Siddharth Bhat : 10-10-2020, 23:00 IST</summary><p>
+<details><summary>(#009) <b>A Tour On Optimization Methods</b> - Jayadev Naram : 17-10-2020, 22:15 IST</summary><p>
+
+### Abstract
+TBA
+
+</p></details>
+
+Past Talks
+----------
+
+<details><summary>(#008) <b>p-adics</b> - Siddharth Bhat</summary><p>
+  
+**Date & Time:** 10-10-2020, 23:00 IST
   
 ### Abstract 
 The integers and polynomials of a single variable look tantalizingly similar. Many of our intuitions about factorizations, primality, GCD, LCM, and other number-theoretic operations work "equally well" on  single-variable polynomials. 
@@ -24,15 +36,6 @@ The reference material for the talk is the first three to four chapters of the b
 
 </p></details>
 
-<details><summary>(#009) <b>A Tour On Optimization Methods</b> - Jayadev Naram : 17-10-2020, 22:15 IST</summary><p>
-
-### Abstract
-TBA
-
-</p></details>
-
-Past Talks
-----------
 <details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi</summary><p>
 
 **Date & Time:** 03-10-2020, 22:15 IST
