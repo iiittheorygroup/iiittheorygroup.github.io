@@ -22,7 +22,7 @@ An optimization method solves the problem of finding the minimizer of a function
 
 </p></details>
 
-<details><summary>(#010) <b>Quantum Walk Algorithsm</b> - Subhasree Patro : 24-10-2020, 22:15 IST</summary><p>
+<details><summary>(#010) <b>Quantum Walk Algorithms</b> - Subhasree Patro : 24-10-2020, 22:15 IST</summary><p>
 
 ### Abstract
 TBA
