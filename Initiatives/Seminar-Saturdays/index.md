@@ -29,6 +29,21 @@ TBA
 
 </p></details>
 
+Give a Talk!
+------------
+Are you interested in presenting some cool theory topic? Awesome! We are more than glad to host your talk.
+
+To schedule a talk:
+- Pick a free slot from the [calendar](http://tiny.cc/IIITHTheoryEvents) (the ones prefixed with `(???)`)
+- Ping a seminar admin on discord, using the role `@seminar-admin`. You can also DM them if you like.
+- Give them the talk title, and voila!
+- The Wednesday before the talk, post the following details on the `#seminar-saturdays` channel
+    + Title
+    + Date/Time and Venue
+    + Abstract (A short introduction to the topic)
+    + Prerequisites \[optional]
+    + Resources \[optional]
+
 Past Talks
 ----------
 
