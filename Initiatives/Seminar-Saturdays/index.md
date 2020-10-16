@@ -29,6 +29,13 @@ TBA
 
 </p></details>
 
+<details><summary>(#???) <b>Fuzzy Set Theory</b> - Jayitha Reddy : 07-11-2020, 22:15 IST</summary><p>
+
+### Abstract
+TBA
+
+</p></details>
+
 Give a Talk!
 ------------
 Are you interested in presenting some cool theory topic? Awesome! We are more than glad to host your talk.
