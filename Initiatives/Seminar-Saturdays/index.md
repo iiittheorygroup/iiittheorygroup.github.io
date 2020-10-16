@@ -18,7 +18,7 @@ Upcoming Talks
 An optimization method solves the problem of finding the minimizer of a function in a given search space. There are a wide variety of optimization algorithms used in applications. But to guarantee global or even local optimality one needs the problem to satisfy some set of conditions. Usually, the function considered will be differentiable upto the 2nd order. For these types of problems there is a rich class of optimization methods which are provably optimal. This class of algorithms is broadly classified into - Line Search Methods and Trust Region Methods. This talk gives an overview of these classes of optimization algorithms along with a brief discussion of convergence results.
 
 ### Resources 
-(J. Nocedal and S. Wright, Numerical Optimization)[https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf]
+[J. Nocedal and S. Wright, Numerical Optimization](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)
 
 </p></details>
 
