@@ -55,7 +55,7 @@ Multivariable differential calculus
 ### Resources 
 [J. Nocedal and S. Wright, Numerical Optimization](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)
 
-[Talk Slides](talk_17_10_20_opt_methods.pdf). (Recording: TBA)
+[Talk Slides](talk_17_10_20_opt_methods.pdf) and [Recording](https://www.youtube.com/watch?v=HHbBttEK8R0)
 
 </p></details>
 
