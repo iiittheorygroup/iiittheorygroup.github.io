@@ -22,7 +22,7 @@ TBA
 
 </p></details>
 
-<details><summary>31-10-2020 <b>|</b> (#012) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
+<details><summary>31-10-2020 <b>|</b> (#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
 
 **Date & Time:** 31-10-2020, 22:15 IST
 
