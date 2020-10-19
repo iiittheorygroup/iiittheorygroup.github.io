@@ -40,6 +40,16 @@ TBA
 
 </p></details>
 
+<details><summary>21-11-2020 <b>|</b> (#013) <b>Special Relativity</b> - Aditya Bharti</summary><p>
+
+**Date & Time:** 21-11-2020, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+
+
 Give a Talk!
 ------------
 Are you interested in presenting some cool theory topic? Awesome! We are more than glad to host your talk.
