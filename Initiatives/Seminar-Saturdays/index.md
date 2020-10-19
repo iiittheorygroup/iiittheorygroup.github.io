@@ -1,3 +1,5 @@
+<!-- commit tag: [seminar-saturdays] -->
+
 Seminar Saturdays
 =================
 
@@ -11,14 +13,27 @@ Usually hosted on our MS Teams group, or Discord.
 Upcoming Talks
 --------------
 
-<details><summary>(#010) <b>Quantum Walk Algorithms</b> - Subhasree Patro : 24-10-2020, 22:15 IST</summary><p>
+<details><summary>24-10-2020 <b>|</b> (#010) <b>Quantum Walk Algorithms</b> - Subhasree Patro</summary><p>
+    
+**Date & Time:** 24-10-2020, 22:15 IST
 
 ### Abstract
 TBA
 
 </p></details>
 
-<details><summary>(#???) <b>Fuzzy Set Theory</b> - Jayitha Reddy : 07-11-2020, 22:15 IST</summary><p>
+<details><summary>31-10-2020 <b>|</b> (#012) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
+
+**Date & Time:** 31-10-2020, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+
+<details><summary>07-11-2020 <b>|</b> (#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
+
+**Date & Time:** 07-11-2020, 22:15 IST
 
 ### Abstract
 TBA
