@@ -10,11 +10,12 @@ Usually hosted on our MS Teams group, or Discord.
 [Events Calendar](http://tiny.cc/IIITHTheoryEvents)  
 [Talk Recordings](https://www.youtube.com/playlist?list=PLcCKNfqBwtiU-C6jn-jgr3OaZG7Kwh7es)
 
-Upcoming Talks
---------------
+Next Talk
+---------
 
-<details><summary>24-10-2020 <b>|</b> (#010) <b>Quantum Walks and its Applications</b> - Subhasree Patro</summary><p>
-    
+<!-- <details><summary>24-10-2020 <b>|</b> (#010) <b>Quantum Walks and its Applications</b> - Subhasree Patro</summary><p> -->
+(#010) **Quantum Walks and its Applications** - Subhasree Patro
+
 **Date & Time:** 24-10-2020, 22:15 IST
 
 ### Abstract
@@ -29,7 +30,10 @@ Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi
 ### About the Speaker
 [Subhasree Patro](https://www.qusoft.org/patro/) is a PhD student at the [Algorithms and Complexity Group at CWI, Amsterdam](https://www.cwi.nl/research/groups/algorithms-and-complexity) and [QuSoft](https://www.qusoft.org/). She currently works on Conditional Quantum Time Lower Bounds under the guidance of Harry Burhman. She has made impactful contributions to the field, including her recent paper titled [The Quantum Strong Exponential-Time Hypothesis](https://arxiv.org/abs/1911.05686). She had previously done her masters at IIIT-H on Quantum Information Theory.
 
-</p></details>
+<!-- </p></details> -->
+
+Upcoming Talks
+--------------
 
 <details><summary>31-10-2020 <b>|</b> (#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
 
