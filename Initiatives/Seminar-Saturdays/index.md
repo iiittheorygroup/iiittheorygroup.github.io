@@ -53,7 +53,16 @@ TBA
 
 </p></details>
 
-<details><summary>21-11-2020 <b>|</b> (#013) <b>Special Relativity</b> - Aditya Bharti</summary><p>
+<details><summary>14-11-2020 <b>|</b> (#013) <b>Introduction to Quantum Chemistry</b> - Tanuj Khattar</summary><p>
+
+**Date & Time:** 14-11-2020, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+
+<details><summary>21-11-2020 <b>|</b> (#014) <b>Special Relativity</b> - Aditya Bharti</summary><p>
 
 **Date & Time:** 21-11-2020, 22:15 IST
 
@@ -67,7 +76,7 @@ Give a Talk!
 ------------
 Are you interested in presenting some cool theory topic? Awesome! We are more than glad to host your talk.
 
-To schedule a talk:
+**To schedule a talk:**
 - Pick a free slot from the [calendar](http://tiny.cc/IIITHTheoryEvents) (the ones prefixed with `(???)`)
 - Ping a seminar admin on discord, using the role `@seminar-admin`. You can also DM them if you like.
 - Give them the talk title, and voila!
@@ -77,6 +86,13 @@ To schedule a talk:
     + Abstract (A short introduction to the topic)
     + Prerequisites \[optional]
     + Resources \[optional]
+
+**Upcoming free slots:**
+- 28-11-2020
+- 05-12-2020
+- 12-12-2020
+- 19-12-2020
+- 26-12-2020
 
 Past Talks
 ----------
