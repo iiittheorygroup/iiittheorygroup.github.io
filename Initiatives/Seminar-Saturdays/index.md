@@ -13,36 +13,21 @@ Usually hosted on our MS Teams group, or Discord.
 Next Talk
 ---------
 
-<!-- <details><summary>24-10-2020 <b>|</b> (#010) <b>Quantum Walks and its Applications</b> - Subhasree Patro</summary><p> -->
-(#010) **Quantum Walks and its Applications** - Subhasree Patro
+<!-- <details><summary>31-10-2020 <b>|</b> (#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p> -->
 
-**Date & Time:** 24-10-2020, 22:15 IST
-
-### Abstract
-We will first discuss the basic quantum walk algorithm and we will see how, in the query complexity model, quantum walks can be applied to achieve better than classical query algorithms for the Element Distinctness problem and (if time permits) the Triangle Finding problem.
-
-### Prerequisites
-Basics of Quantum Computing, Grover’s algorithm, Query complexity.
-
-### Resources
-Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf)
-
-### About the Speaker
-[Subhasree Patro](https://www.qusoft.org/patro/) is a PhD student at the [Algorithms and Complexity Group at CWI, Amsterdam](https://www.cwi.nl/research/groups/algorithms-and-complexity) and [QuSoft](https://www.qusoft.org/). She currently works on Conditional Quantum Time Lower Bounds under the guidance of Harry Buhrman. She has made impactful contributions to the field, including her recent paper titled [The Quantum Strong Exponential-Time Hypothesis](https://arxiv.org/abs/1911.05686). She had previously done her masters at IIIT-H on Quantum Information Theory.
-
-<!-- </p></details> -->
-
-Upcoming Talks
---------------
-
-<details><summary>31-10-2020 <b>|</b> (#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
+(#011) **Convex Optimizations** - Arpan Dasgupta, Abhishek Mittal
 
 **Date & Time:** 31-10-2020, 22:15 IST
 
 ### Abstract
 TBA
 
-</p></details>
+<!-- </p></details> -->
+
+
+Upcoming Talks
+--------------
+
 
 <details><summary>07-11-2020 <b>|</b> (#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
 
@@ -96,6 +81,26 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 
 Past Talks
 ----------
+
+<details><summary>(#010) <b>Quantum Walks and its Applications</b> - Subhasree Patro</summary><p>
+
+**Date & Time:** 24-10-2020, 22:15 IST
+
+### Abstract
+We will first discuss the basic quantum walk algorithm and we will see how, in the query complexity model, quantum walks can be applied to achieve better than classical query algorithms for the Element Distinctness problem and (if time permits) the Triangle Finding problem.
+
+### Prerequisites
+Basics of Quantum Computing, Grover’s algorithm, Query complexity.
+
+### Resources
+Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf)  
+[Talk Recording](https://youtu.be/jE-luDw0yLY). (Talk whiteboard will be uploaded soon.)
+
+### About the Speaker
+[Subhasree Patro](https://www.qusoft.org/patro/) is a PhD student at the [Algorithms and Complexity Group at CWI, Amsterdam](https://www.cwi.nl/research/groups/algorithms-and-complexity) and [QuSoft](https://www.qusoft.org/). She currently works on Conditional Quantum Time Lower Bounds under the guidance of Harry Buhrman. She has made impactful contributions to the field, including her recent paper titled [The Quantum Strong Exponential-Time Hypothesis](https://arxiv.org/abs/1911.05686). She had previously done her masters at IIIT-H on Quantum Information Theory.
+
+</p></details>
+
 
 <details><summary>(#009) <b>A Tour On Optimization Methods</b> - Jayadev Naram</summary><p>
 
