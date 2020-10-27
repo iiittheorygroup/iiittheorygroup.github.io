@@ -94,7 +94,7 @@ Basics of Quantum Computing, Grover’s algorithm, Query complexity.
 
 ### Resources
 Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf)  
-[Talk Recording](https://youtu.be/jE-luDw0yLY). (Talk whiteboard will be uploaded soon.)
+[Talk Recording](https://youtu.be/jE-luDw0yLY) and [Whiteboard](https://onedrive.live.com/view.aspx?resid=AF40D4840AF9F3D!140&authkey=!ABPa2npoEn95caQ)
 
 ### About the Speaker
 [Subhasree Patro](https://www.qusoft.org/patro/) is a PhD student at the [Algorithms and Complexity Group at CWI, Amsterdam](https://www.cwi.nl/research/groups/algorithms-and-complexity) and [QuSoft](https://www.qusoft.org/). She currently works on Conditional Quantum Time Lower Bounds under the guidance of Harry Buhrman. She has made impactful contributions to the field, including her recent paper titled [The Quantum Strong Exponential-Time Hypothesis](https://arxiv.org/abs/1911.05686). She had previously done her masters at IIIT-H on Quantum Information Theory.
