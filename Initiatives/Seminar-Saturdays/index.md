@@ -26,7 +26,7 @@ Next Talk
 Linear Algebra - Eigenvalues and Eigenvectors, Positive Semidefiniteness.
 
 ### Resources
-[Boyd, Vandenberghe. Convex Optimizations](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+[Boyd and Vandenberghe. Convex Optimizations](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 <!-- </p></details> -->
 
