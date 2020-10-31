@@ -13,36 +13,18 @@ Usually hosted on our MS Teams group, or Discord.
 Next Talk
 ---------
 
-<!-- <details><summary>31-10-2020 <b>|</b> (#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p> -->
-
-(#011) **Convex Optimizations** - Arpan Dasgupta, Abhishek Mittal
-
-**Date & Time:** 31-10-2020, 22:15 IST
-
-### Abstract
-"Mathematics can instruct us on how to optimise a given problem, but the challenging part is figuring out what to optimize." There are multiple algorithms out there to find the optimal solution to a problem, some are fully developed and some are active research areas. Whereas most of these algorithms are only able to efficiently find a solution if your objective function is convex, most of the real life optimisation problems are not so straightforwardly convex. We will discuss what these convex functions are and how we can try to convert our objective functions (that we want to minimise or maximise) in real life to convex functions so that we can use our traditional algorithms to find a solution. We will show with the help of a problem how lower bounds can be attained on a real life applicable problem.
-
-### Prerequisites 
-Linear Algebra - Eigenvalues and Eigenvectors, Positive Semidefiniteness.
-
-### Resources
-[Boyd and Vandenberghe, "Convex Optimizations"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-
-<!-- </p></details> -->
-
-
-Upcoming Talks
---------------
-
-
-<details><summary>07-11-2020 <b>|</b> (#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
+<!-- <details><summary>07-11-2020 <b>|</b> (#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p> -->
+(#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy
 
 **Date & Time:** 07-11-2020, 22:15 IST
 
 ### Abstract
 TBA
 
-</p></details>
+<!-- </p></details> -->
+
+Upcoming Talks
+--------------
 
 <details><summary>14-11-2020 <b>|</b> (#013) <b>Introduction to Quantum Chemistry</b> - Tanuj Khattar</summary><p>
 
@@ -87,6 +69,23 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 
 Past Talks
 ----------
+<details><summary>(#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
+
+**Date & Time:** 31-10-2020, 22:15 IST
+
+### Abstract
+"Mathematics can instruct us on how to optimise a given problem, but the challenging part is figuring out what to optimize." There are multiple algorithms out there to find the optimal solution to a problem, some are fully developed and some are active research areas. Whereas most of these algorithms are only able to efficiently find a solution if your objective function is convex, most of the real life optimisation problems are not so straightforwardly convex. We will discuss what these convex functions are and how we can try to convert our objective functions (that we want to minimise or maximise) in real life to convex functions so that we can use our traditional algorithms to find a solution. We will show with the help of a problem how lower bounds can be attained on a real life applicable problem.
+
+### Prerequisites 
+Linear Algebra - Eigenvalues and Eigenvectors, Positive Semidefiniteness.
+
+### Resources
+[Boyd and Vandenberghe, "Convex Optimizations"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+[Recording](https://youtu.be/uPhUkHvpVAs), [Talk Slides](talk_31_10_20_convex_opt_slides.pdf), [Talk Whiteboard](talk_31_10_20_convex_opt_whiteboard.pdf)
+
+</p></details> 
+
 
 <details><summary>(#010) <b>Quantum Walks and its Applications</b> - Subhasree Patro</summary><p>
 
