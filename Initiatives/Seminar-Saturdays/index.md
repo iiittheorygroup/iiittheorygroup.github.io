@@ -62,7 +62,7 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 Past Talks
 ----------
 
-<details><summary>07-11-2020 <b>|</b> (#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
+<details><summary>(#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
 
 **Date & Time:** 07-11-2020, 22:15 IST
 
@@ -75,7 +75,7 @@ Elementary Set Theory (not necessary though).
 ### Resources
 Fuzzy Sets and Fuzzy Logic: Theory and Applications by George Klir
 
-[Recording](https://youtu.be/-WG3eKGphyg) and [Talk Slides](https://jayitha.github.io/Uncertain-Database-Systems-and-Fuzzy-Set-Theory/Fuzzy%20Set%20Theory/seminar_saturdays.html)
+[Recording](https://youtu.be/-WG3eKGphyg) and [Talk Slides](talk_07_11_20_fuzzy_sets.html)
 
 </p></details>
 
