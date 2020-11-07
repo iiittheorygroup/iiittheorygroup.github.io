@@ -13,21 +13,7 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
-<!-- <details><summary>07-11-2020 <b>|</b> (#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p> -->
-(#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy
-
-**Date & Time:** 07-11-2020, 22:15 IST
-
-### Abstract
-Around the 1960s there was a grand paradigm shift in Science, challenging the traditional view which insisted that uncertainity was undesirable and should be avoided. This shift brought upon a modern view which is tolerant of uncertainity and insists that science cannot avoid it. Fuzzy set theory is a result of this shift, it challenges the very foundations upon which probability theory is based on: Aristotelian two-valued logic. In this seminar I will briefly introduce concepts of Fuzzy Set Theory: definitions, types and operators.
-
-### Prerequisites
-Elementary Set Theory (not necessary though). 
-
-### Resources
-Fuzzy Sets and Fuzzy Logic: Theory and Applications by George Klir
-
-<!-- </p></details> -->
+TBA
 
 Upcoming Talks
 --------------
@@ -75,6 +61,24 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 
 Past Talks
 ----------
+
+<details><summary>07-11-2020 <b>|</b> (#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
+
+**Date & Time:** 07-11-2020, 22:15 IST
+
+### Abstract
+Around the 1960s there was a grand paradigm shift in Science, challenging the traditional view which insisted that uncertainity was undesirable and should be avoided. This shift brought upon a modern view which is tolerant of uncertainity and insists that science cannot avoid it. Fuzzy set theory is a result of this shift, it challenges the very foundations upon which probability theory is based on: Aristotelian two-valued logic. In this seminar I will briefly introduce concepts of Fuzzy Set Theory: definitions, types and operators.
+
+### Prerequisites
+Elementary Set Theory (not necessary though). 
+
+### Resources
+Fuzzy Sets and Fuzzy Logic: Theory and Applications by George Klir
+
+[Recording](https://youtu.be/-WG3eKGphyg) and [Talk Slides](https://jayitha.github.io/Uncertain-Database-Systems-and-Fuzzy-Set-Theory/Fuzzy%20Set%20Theory/seminar_saturdays.html)
+
+</p></details>
+
 <details><summary>(#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
 
 **Date & Time:** 31-10-2020, 22:15 IST
