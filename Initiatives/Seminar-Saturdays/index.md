@@ -36,6 +36,14 @@ TBA
 
 </p></details>
 
+<details><summary>12-12-2020 <b>|</b> (#???) <b>TBA</b> - Mahathi Vempati</summary><p>
+
+**Date & Time:** 12-12-2020, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
 
 Give a Talk!
 ------------
@@ -55,7 +63,6 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 **Upcoming free slots:**
 - 28-11-2020
 - 05-12-2020
-- 12-12-2020
 - 19-12-2020
 - 26-12-2020
 
