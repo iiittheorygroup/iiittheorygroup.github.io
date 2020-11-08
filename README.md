@@ -1,6 +1,8 @@
 IIIT Theory Group
 =================
 
+[About](About.md)
+
 Initiatives
 -----------
 [Seminar Saturdays](Initiatives/Seminar-Saturdays/index.md)
