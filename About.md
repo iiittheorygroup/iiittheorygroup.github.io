@@ -43,7 +43,7 @@ Theory Thursdays
 ----------------
 We usually meet every Thursday, to discuss and share what cool stuff we've learnt/come across/found interesting in the last week, and just hang out. There is no restriction on what it should be. Feel free to share anything.
 
-Seminar Saturdays
+[Seminar Saturdays](Initiatives/Seminar-Saturdays)
 -----------------
 An initiative to have regular presentations on various topics, delivered by different students. The primary goal is to learn or be aware different topics and fields, at least at a surface level.
 
