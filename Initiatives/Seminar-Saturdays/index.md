@@ -36,6 +36,17 @@ TBA
 
 </p></details>
 
+<details><summary>05-12-2020 <b>|</b> (#???) <b>TBA</b> - Nitin John Raj</summary><p>
+
+**Date & Time:** 05-12-2020, 22:15 IST
+
+**Tentative Title(s):** Oddities in the Scala Type System; Dependent Object Type (DOT) calculus.
+
+### Abstract
+TBA
+
+</p></details>
+
 <details><summary>12-12-2020 <b>|</b> (#???) <b>TBA</b> - Mahathi Vempati</summary><p>
 
 **Date & Time:** 12-12-2020, 22:15 IST
@@ -62,7 +73,6 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 
 **Upcoming free slots:**
 - 28-11-2020
-- 05-12-2020
 - 19-12-2020
 - 26-12-2020
 
