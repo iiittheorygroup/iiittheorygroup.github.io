@@ -3,7 +3,7 @@
 Seminar Saturdays
 =================
 
-An initiative where one student presents something of their choice every week. It could be a research paper/topic/field/concept etc. A short 30-45 minute presentation, followed by a Q/A session.
+An initiative where one student presents something of their choice every week. It could be a research paper/topic/field/concept etc. A short 30-60 minute presentation, followed by a Q/A session.
 
 Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are recorded and uploaded to our YouTube channel too.
 
