@@ -17,7 +17,7 @@ Next Talk
 
 (#013) **Introduction to Quantum Chemistry** - _Tanuj Khattar_
 
-**Date & Time:** 15-11-2020, 22:00 IST
+**Date & Time:** 15-11-2020, 22:40 IST
 
 ### Abstract
 This talk aims to introduce computer science students to the field of Quantum Chemistry. We will start by introducing the electronic structure problem and gradually show how we can solve for dissociation energy of H2 molecule via a quantum circuit using OpenFermion. 
