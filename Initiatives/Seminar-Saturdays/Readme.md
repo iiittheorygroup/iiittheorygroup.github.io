@@ -13,22 +13,7 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
-<!-- <details><summary>14-11-2020 <b>|</b> (#013) <b>Introduction to Quantum Chemistry</b> - Tanuj Khattar</summary><p> -->
-
-(#013) **Introduction to Quantum Chemistry** - _Tanuj Khattar_
-
-**Date & Time:** 15-11-2020, 22:40 IST
-
-### Abstract
-This talk aims to introduce computer science students to the field of Quantum Chemistry. We will start by introducing the electronic structure problem and gradually show how we can solve for dissociation energy of H2 molecule via a quantum circuit using OpenFermion. 
-
-### Prerequisites
-Basics of Quantum Computing,  Basics of electronic structure theory (Class 11th NCERT), Basic python.
-
-### About the Speaker
-Tanuj Khattar did his Bachelors in CS at IIIT-H. He later worked at a couple of tech firms. He is currently at Google Munich, and is working closely with the Google Quantum Teams, particularly the one on OpenFermion.
-
-<!-- </p></details> -->
+TBA
 
 Upcoming Talks
 --------------
@@ -84,6 +69,24 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 
 Past Talks
 ----------
+
+<details><summary>(#013) <b>Introduction to Quantum Chemistry</b> - Tanuj Khattar</summary><p>
+
+**Date & Time:** 15-11-2020, 22:40 IST
+
+### Abstract
+This talk aims to introduce computer science students to the field of Quantum Chemistry. We will start by introducing the electronic structure problem and gradually show how we can solve for dissociation energy of H2 molecule via a quantum circuit using OpenFermion. 
+
+### Prerequisites
+Basics of Quantum Computing,  Basics of electronic structure theory (Class 11th NCERT), Basic python.
+
+### Resources
+[Recording](https://youtu.be/sDHvNAVWzsU)
+
+### About the Speaker
+Tanuj Khattar did his Bachelors in CS at IIIT-H. He later worked at a couple of tech firms. He is currently at Google Munich, and is working closely with the Google Quantum Teams, particularly the one on OpenFermion.
+
+</p></details>
 
 <details><summary>(#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
 
