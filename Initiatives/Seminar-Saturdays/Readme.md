@@ -27,7 +27,16 @@ TBA
 
 </p></details>
 
-<details><summary>05-12-2020 <b>|</b> (#???) <b>TBA</b> - Nitin John Raj</summary><p>
+<details><summary>28-11-2020 <b>|</b> (#015) <b>Celeste is NP-Complete</b> - Zeeshan Ahmed, Shaanjeet Grover</summary><p>
+
+**Date & Time:** 12-12-2020, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+
+<details><summary>05-12-2020 <b>|</b> (#016) <b>TBA</b> - Nitin John Raj</summary><p>
 
 **Date & Time:** 05-12-2020, 22:15 IST
 
@@ -38,7 +47,7 @@ TBA
 
 </p></details>
 
-<details><summary>12-12-2020 <b>|</b> (#???) <b>TBA</b> - Mahathi Vempati</summary><p>
+<details><summary>12-12-2020 <b>|</b> (#017) <b>TBA</b> - Mahathi Vempati</summary><p>
 
 **Date & Time:** 12-12-2020, 22:15 IST
 
@@ -63,7 +72,6 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
     + Resources \[optional]
 
 **Upcoming free slots:**
-- 28-11-2020
 - 19-12-2020
 - 26-12-2020
 
