@@ -65,6 +65,15 @@ TBA
 
 </p></details>
 
+<details><summary>09-01-2021 <b>|</b> (#019) <b>TBA</b> - Kritika Prakash</summary><p>
+
+**Date & Time:** 09-01-2021, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+
 Give a Talk!
 ------------
 Are you interested in presenting some cool theory topic? Awesome! We are more than glad to host your talk.
@@ -83,7 +92,6 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 **Upcoming free slots:**
 
 **January 2021**
-- 09-01-2021
 - 16-01-2021
 - 23-01-2021
 - 30-01-2021
