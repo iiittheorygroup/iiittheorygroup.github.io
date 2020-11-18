@@ -82,14 +82,17 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
 
 **Upcoming free slots:**
 
-**December 2020**
-- 26-12-2020
-
 **January 2021**
 - 09-01-2021
 - 16-01-2021
 - 23-01-2021
 - 30-01-2021
+
+**February 2021**
+- 06-02-2021
+- 13-02-2021
+- 20-02-2021
+- 27-02-2021
 
 Past Talks
 ----------
