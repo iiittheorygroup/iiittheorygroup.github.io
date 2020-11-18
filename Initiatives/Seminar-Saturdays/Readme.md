@@ -76,7 +76,7 @@ TBA
 
 Give a Talk!
 ------------
-Are you interested in presenting some cool theory topic? Awesome! We are more than glad to host your talk.
+Are you interested in presenting some cool theory topic? Or talking about your research work? Awesome! We are more than glad to host your talk.
 
 **To schedule a talk:**
 - Pick a free slot from the [calendar](http://tiny.cc/IIITHTheoryEvents) (the ones prefixed with `(???)`)
