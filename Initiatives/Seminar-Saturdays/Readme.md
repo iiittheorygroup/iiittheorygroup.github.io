@@ -56,6 +56,15 @@ TBA
 
 </p></details>
 
+<details><summary>19-12-2020 <b>|</b> (#018) <b>TBA</b> - Utkarsh</summary><p>
+
+**Date & Time:** 19-12-2020, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+
 Give a Talk!
 ------------
 Are you interested in presenting some cool theory topic? Awesome! We are more than glad to host your talk.
@@ -72,8 +81,15 @@ Are you interested in presenting some cool theory topic? Awesome! We are more th
     + Resources \[optional]
 
 **Upcoming free slots:**
-- 19-12-2020
+
+**December 2020**
 - 26-12-2020
+
+**January 2021**
+- 09-01-2021
+- 16-01-2021
+- 23-01-2021
+- 30-01-2021
 
 Past Talks
 ----------
