@@ -13,19 +13,28 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
-TBA
+<!-- <details><summary>21-11-2020 <b>|</b> (#014) <b>Special Relativity</b> - Aditya Bharti</summary><p> -->
+
+(#014) **Introduction to Special Relativity** - _Aditya Bharti_
+
+**Date & Time:** 21-11-2020, 22:30 IST
+
+### Abstract
+No forces, no gravity, no accelerations, just cruising along in free space with Taylor and Wheeler as our guides. Our aim is to show that physics is plenty complicated without gravity in the mix. Just accept what Maxwell tells us about light and go from there. 
+
+### Prerequisites
+- 12th grade math - Vectors and Calculus
+- Understanding what is meant by a coordinate frame (optional)
+- Understanding what is meant by a coordinate transformation (optional)
+
+### References
+Spacetime Physics - Introduction to Special Relativity - Taylor & Wheeler.  
+My talk will roughly be the first 2-3 chapters of this book. 
+
+<!-- </p></details> -->
 
 Upcoming Talks
 --------------
-
-<details><summary>21-11-2020 <b>|</b> (#014) <b>Special Relativity</b> - Aditya Bharti</summary><p>
-
-**Date & Time:** 21-11-2020, 22:15 IST
-
-### Abstract
-TBA
-
-</p></details>
 
 <details><summary>28-11-2020 <b>|</b> (#015) <b>Celeste is NP-Complete</b> - Zeeshan Ahmed, Shaanjeet Grover</summary><p>
 
