@@ -65,7 +65,7 @@ TBA
 
 </p></details>
 
-<details><summary>19-12-2020 <b>|</b> (#018) <b>TBA</b> - Utkarsh</summary><p>
+<details><summary>19-12-2020 <b>|</b> (#018) <b>Noisy Era of Quantum Computing</b> - Utkarsh</summary><p>
 
 **Date & Time:** 19-12-2020, 22:15 IST
 
