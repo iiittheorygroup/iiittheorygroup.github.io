@@ -263,7 +263,7 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 
 </p></details>
 
-<details><summary>(#005) <b>Origami ∩ Math</b> - Athreya C</summary><p>
+<details><summary>(#005) <b>Origami ∩ Math</b> - <a href="https://in.linkedin.com/in/athreya-chandramouli-600625140">Athreya C</a></summary><p>
 
 **Date & Time:** 19-09-2020, 22:15 IST
 
