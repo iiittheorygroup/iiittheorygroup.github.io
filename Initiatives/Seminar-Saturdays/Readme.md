@@ -1,4 +1,4 @@
-<!-- commit tag: [seminar-saturdays] -->
+<!-- commit tag: [SS] -->
 
 Seminar Saturdays
 =================
@@ -114,7 +114,7 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 Past Talks
 ----------
 
-<details><summary>(#013) <b>Introduction to Quantum Chemistry</b> - Tanuj Khattar</summary><p>
+<details><summary>(#013) <b>Introduction to Quantum Chemistry</b> - <a href="https://in.linkedin.com/in/tanuj-khattar-8b3042124">Tanuj Khattar</a></summary><p>
 
 **Date & Time:** 15-11-2020, 22:40 IST
 
@@ -132,7 +132,7 @@ Tanuj Khattar did his Bachelors in CS at IIIT-H. He later worked at a couple of 
 
 </p></details>
 
-<details><summary>(#012) <b>Fuzzy Set Theory</b> - Jayitha Reddy</summary><p>
+<details><summary>(#012) <b>Fuzzy Set Theory</b> - <a href="https://jayitha.github.io/">Jayitha Reddy</a></summary><p>
 
 **Date & Time:** 07-11-2020, 22:15 IST
 
@@ -149,7 +149,7 @@ Fuzzy Sets and Fuzzy Logic: Theory and Applications by George Klir
 
 </p></details>
 
-<details><summary>(#011) <b>Convex Optimizations</b> - Arpan Dasgupta, Abhishek Mittal</summary><p>
+<details><summary>(#011) <b>Convex Optimizations</b> - <a href="https://arpan-dasgupta.github.io/">Arpan Dasgupta</a>, Abhishek Mittal</summary><p>
 
 **Date & Time:** 31-10-2020, 22:15 IST
 
@@ -167,7 +167,7 @@ Linear Algebra - Eigenvalues and Eigenvectors, Positive Semidefiniteness.
 </p></details> 
 
 
-<details><summary>(#010) <b>Quantum Walks and its Applications</b> - Subhasree Patro</summary><p>
+<details><summary>(#010) <b>Quantum Walks and its Applications</b> - <a href="https://www.qusoft.org/patro/">Subhasree Patro</a></summary><p>
 
 **Date & Time:** 24-10-2020, 22:15 IST
 
@@ -187,7 +187,7 @@ Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi
 </p></details>
 
 
-<details><summary>(#009) <b>A Tour On Optimization Methods</b> - Jayadev Naram</summary><p>
+<details><summary>(#009) <b>A Tour On Optimization Methods</b> - <a href="https://in.linkedin.com/in/jayadev-naram-468764167">Jayadev Naram</a></summary><p>
 
 **Date & Time:** 17-10-2020, 22:15 IST
 
@@ -204,7 +204,7 @@ Multivariable differential calculus
 
 </p></details>
 
-<details><summary>(#008) <b>p-adics</b> - Siddharth Bhat</summary><p>
+<details><summary>(#008) <b>p-adics</b> - <a href="http://bollu.github.io/">Siddharth Bhat</a></summary><p>
   
 **Date & Time:** 10-10-2020, 23:00 IST
   
@@ -222,7 +222,7 @@ The reference material for the talk is the first three to four chapters of the b
 
 </p></details>
 
-<details><summary>(#007) <b>Two proofs in the margin</b> - Bharathi Ramana Joshi</summary><p>
+<details><summary>(#007) <b>Two proofs in the margin</b> - <a href="https://bharathi.xyz/">Bharathi Ramana Joshi</a></summary><p>
 
 **Date & Time:** 03-10-2020, 22:15 IST
 
@@ -239,7 +239,7 @@ None! Just come and enjoy the show
 
 </p></details>
 
-<details><summary>(#006) <b>Automated Theorem Proving</b> - Anurudh Peduri</summary><p>
+<details><summary>(#006) <b>Automated Theorem Proving</b> - <a href="https://github.com/anurudhp">Anurudh Peduri</a></summary><p>
 
 **Date & Time:** 26-09-2020, 22:15 IST
 
@@ -279,7 +279,7 @@ None!
 [Talk Slides](https://docs.google.com/presentation/d/1YZXazUE1Tv8IZhOKNho903jNZn1V-ibD0HDHSbcmGAI/) and [Recording](https://www.youtube.com/watch?v=Ikgq1AdFpAY)
 
 </p></details>
-<details><summary>(#004) <b>Spectral Graph Theory</b> - Tanmay Kumar Sinha</summary><p>
+<details><summary>(#004) <b>Spectral Graph Theory</b> - <a href="https://github.com/Tanmay-Kumar-Sinha">Tanmay Kumar Sinha</a></summary><p>
 
 **Date & Time:** 12-09-2020, 21:00 IST
 
@@ -294,7 +294,7 @@ The main resource will be 1st and possibly 2nd chapter of the book Spectra of Gr
 
 </p></details>
 
-<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - Arjun P</summary><p>
+<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - <a href="https://github.com/Superty">Arjun P</a></summary><p>
 
 **Date & Time:** 05-09-2020, 21:00 IST
 
@@ -313,7 +313,7 @@ For more on the probabilistic method, you can see the textbook titled (surprise!
 
 </p></details>
 
-<details><summary>(#002) <b>Sylow's theorem & unsolvability of the quintic</b> - Bharathi Ramana Joshi</summary><p>
+<details><summary>(#002) <b>Sylow's theorem & unsolvability of the quintic</b> - <a href="https://bharathi.xyz/">Bharathi Ramana Joshi</a></summary><p>
 
 **Date & Time:** 29-08-2020, 21:00 IST
 
@@ -328,7 +328,7 @@ Basic definitions, homomorphisms, actions, Lagrange's theorem, Isomorphism Theor
 
 </p></details>
 
-<details><summary>(#001) <b>Quantum Approximate Counting</b> - Aditya Morolia</summary><p>
+<details><summary>(#001) <b>Quantum Approximate Counting</b> - <a href="https://thecharmingsociopath.github.io/">Aditya Morolia</a></summary><p>
 
 **Date & Time:** 22-08-2020, 21:00 IST
 
