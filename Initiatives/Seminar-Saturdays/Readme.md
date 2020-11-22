@@ -94,7 +94,7 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 Past Talks
 ----------
 
-<details><summary>(#014) <b>Introduction to Special Relativity</b> - Aditya Bharti</summary><p>
+<details><summary>(#014) <b>Introduction to Special Relativity</b> - <a href="https://github.com/adbugger">Aditya Bharti</a></summary><p>
 
 **Date & Time:** 21-11-2020, 22:30 IST
 
