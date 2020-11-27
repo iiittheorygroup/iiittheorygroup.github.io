@@ -13,14 +13,27 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
-<details><summary>28-11-2020 <b>|</b> (#015) <b>Celeste is NP-Complete</b> - Zeeshan Ahmed, Shaanjeet Grover</summary><p>
+<!-- <details><summary>28-11-2020 <b>|</b> (#015) <b>Celeste is NP-Complete</b> - Zeeshan Ahmed, Shaanjeet Grover</summary><p> -->
 
+### (#015) Celeste is NP-Complete - Zeeshan Ahmed, Shaanjeet Grover
 **Date & Time:** 12-12-2020, 22:15 IST
 
 ### Abstract
-TBA
+Computers can solve a wide spectrum of problems, but they can't solve all the problems, some problems can never have a solution, some problems can be, but they require more space the size of the universe, or more time than the age of the universe on our computational models. So how do we measure such aspects of a problem? we do that using Complexity Theory, which deals with how and why a problem is harder than a different problem, and how to classify problems based on the resources they require.
 
-</p></details>
+Do Protein folding and sudoku have something in common? it might not seem so but Complexity Theory tells us that if we had an algorithm that could solve sudoku efficiently then we could adapt it to predict for protein folding. This same property is held by classic nintendo games such as super mario bros.
+We will demonstrate one such example where we prove how "Celeste" also shares such property by proving it to be NP-complete. And then later show how a small change in it makes the game much harder(Presumably) to compute; to be precise, PSPACE-complete.
+
+### Prerequisites
+Asymptotic Notation (big-O), Boolean Algebra (Basic)
+
+### Resources 
+[Nintendo games are computationally hard](https://arxiv.org/pdf/1203.1895.pdf) (A fun read)
+
+Complexity - [Introduction](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23), 
+[Reductions](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
+
+<!--- </p></details> -->
 
 Upcoming Talks
 --------------
