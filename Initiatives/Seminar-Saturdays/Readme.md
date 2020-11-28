@@ -86,7 +86,7 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 Past Talks
 ----------
 
-<details><summary>(#015) <b>Celeste is NP-Complete</b> - Zeeshan Ahmed, Shaanjeet Grover</summary><p>
+<details><summary>(#015) <b>Celeste is NP-Complete</b> - <a href="https://github.com/Zshan0 ">Zeeshan Ahmed</a>, <a href="https://github.com/Groverkss">Kunwar Shaanjeet Singh Grover</a></summary><p>
 
 **Date & Time:** 12-12-2020, 22:15 IST
 
@@ -276,7 +276,7 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 
 </p></details>
 
-<details><summary>(#005) <b>Origami ∩ Math</b> - <a href="https://in.linkedin.com/in/athreya-chandramouli-600625140">Athreya C</a></summary><p>
+<details><summary>(#005) <b>Origami ∩ Math</b> - <a href="https://cathreya.github.io/ ">Athreya C</a></summary><p>
 
 **Date & Time:** 19-09-2020, 22:15 IST
 
