@@ -13,22 +13,21 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
+<!-- <details><summary>05-12-2020 <b>|</b> (#016) <b>TBA</b> - Nitin John Raj</summary><p> -->
 
-Upcoming Talks
---------------
-
-<details><summary>05-12-2020 <b>|</b> (#016) <b>TBA</b> - Nitin John Raj</summary><p>
+### (#016) How to embed languages in proof assistants - Nitin John Raj
 
 **Date & Time:** 05-12-2020, 22:15 IST
-
-**Tentative Title(s):** Oddities in the Scala Type System; Dependent Object Type (DOT) calculus.
 
 ### Abstract
 TBA
 
-</p></details>
+<!-- </p></details> -->
 
-<details><summary>12-12-2020 <b>|</b> (#017) <b>TBA</b> - Mahathi Vempati</summary><p>
+Upcoming Talks
+--------------
+
+<details><summary>12-12-2020 <b>|</b> (#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - Mahathi Vempati</summary><p>
 
 **Date & Time:** 12-12-2020, 22:15 IST
 
