@@ -13,11 +13,15 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
-<!-- <details><summary>05-12-2020 <b>|</b> (#016) <b>TBA</b> - Nitin John Raj</summary><p> -->
+Upcoming Talks
+--------------
+
+
+<details><summary>TBA <b>|</b> (#016) <b>TBA</b> - Nitin John Raj</summary><p>
 
 ### (#016) How to embed languages in proof assistants - Nitin John Raj
 
-**Date & Time:** 05-12-2020, 22:15 IST
+**Date & Time:** TBA
 
 ### Abstract
 Informally speaking, embedding is the process of reinterpreting a language in a different domain. Interpreters can be seen as embeddings of a formal language into whatever language the interpreter is implemented in. Programs like word2vec and GloVe embed words in natural language into vector spaces. Embedding a programming language in a proof assistant allows us to talk about the programming language using the tools given to us by the proof assistant. This lets us prove nice metatheoretical properties of the language (like safety of its type system, strong normalization, etc.). However, modern proof assistants like Coq and Agda are quite expressive, and there are many design choices that we can make when embedding languages in them. In this talk, I'll attempt to broadly cover some of these design choices. 
@@ -27,10 +31,7 @@ Concretely, we will cover:
 1. The contributions of one or two interesting papers, if time permits.
 (Outrageous but Meaningful Coincidences, by Connor McBride and Shallow Embedding of Type Theory is Morally Correct by Ambrus Kaposi)
 
-<!-- </p></details> -->
-
-Upcoming Talks
---------------
+</p></details>
 
 <details><summary>12-12-2020 <b>|</b> (#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - Mahathi Vempati</summary><p>
 
