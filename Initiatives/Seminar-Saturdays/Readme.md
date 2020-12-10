@@ -43,7 +43,7 @@ Upcoming Talks
 --------------
 
 
-<details><summary>TBA <b>|</b> (#016) <b>TBA</b> - Nitin John Raj</summary><p>
+<details><summary>TBA <b>|</b> (#016) <b>How to embed languages in proof assistants</b> - Nitin John Raj</summary><p>
 
 ### (#016) How to embed languages in proof assistants - Nitin John Raj
 
