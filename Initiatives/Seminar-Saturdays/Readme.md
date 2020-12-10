@@ -13,6 +13,32 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
+
+<!-- <details><summary>12-12-2020 <b>|</b> (#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - Mahathi Vempati</summary><p> -->
+
+### (#017) Y you should ZX: An Introduction to ZX Calculus - Mahathi Vempati
+**Date & Time:** 12-12-2020, 22:15 IST
+
+### Abstract
+ZX Calculus is a rigorous graphical language for reasoning about linear maps between qubits. Besides being useful in quantum circuit optimization and quantum error correction, it is also quite fun to dabble in!
+
+In this talk, we will briefly define ZX Calculus, and understand diagrammatic reasoning, the principle behind ZX Calculus. We will define the term "process theory" diagrammatically.
+
+We will then define some artefacts that process theories can possess. We will state without proof that linear maps can be expressed as a process theory and learn the correspondence between known operations in linear algebra and the diagrammatic definitions of these operations in the process theory. 
+
+We will use this correspondence to prove two simple theorems diagrammatically (so bring a pen and a notebook!)
+
+Finally, we will take a glimpse of what an actual reduction of a quantum-information protocol in ZX Calculus would look like, without attempting to understand it. 
+
+### Prerequisites
+None, to understand most of the talk. Knowledge of linear algebra could make the talk more enjoyable. 
+
+### Resources
+The talk is based on the first few chapters of the book Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning
+
+<!-- </p></details> -->
+
+
 Upcoming Talks
 --------------
 
@@ -30,15 +56,6 @@ Concretely, we will cover:
 1. Intrinsic vs extrinsic embeddings, and a few choices in between
 1. The contributions of one or two interesting papers, if time permits.
 (Outrageous but Meaningful Coincidences, by Connor McBride and Shallow Embedding of Type Theory is Morally Correct by Ambrus Kaposi)
-
-</p></details>
-
-<details><summary>12-12-2020 <b>|</b> (#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - Mahathi Vempati</summary><p>
-
-**Date & Time:** 12-12-2020, 22:15 IST
-
-### Abstract
-TBA
 
 </p></details>
 
