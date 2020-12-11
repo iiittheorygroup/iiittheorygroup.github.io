@@ -16,7 +16,7 @@ Next Talk
 
 <!-- <details><summary>12-12-2020 <b>|</b> (#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - Mahathi Vempati</summary><p> -->
 
-### (#017) Y you should ZX: An Introduction to ZX Calculus - Mahathi Vempati
+### (#017) Y you should ZX: An Introduction to ZX Calculus - [Mahathi Vempati](https://mahathivempati.blogspot.com/)
 **Date & Time:** 12-12-2020, 22:15 IST
 
 ### Abstract
