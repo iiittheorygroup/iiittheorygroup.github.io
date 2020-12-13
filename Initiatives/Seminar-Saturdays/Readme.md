@@ -13,30 +13,7 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
-
-<!-- <details><summary>12-12-2020 <b>|</b> (#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - Mahathi Vempati</summary><p> -->
-
-### (#017) Y you should ZX: An Introduction to ZX Calculus - [Mahathi Vempati](https://mahathivempati.blogspot.com/)
-**Date & Time:** 12-12-2020, 22:15 IST
-
-### Abstract
-ZX Calculus is a rigorous graphical language for reasoning about linear maps between qubits. Besides being useful in quantum circuit optimization and quantum error correction, it is also quite fun to dabble in!
-
-In this talk, we will briefly define ZX Calculus, and understand diagrammatic reasoning, the principle behind ZX Calculus. We will define the term "process theory" diagrammatically.
-
-We will then define some artefacts that process theories can possess. We will state without proof that linear maps can be expressed as a process theory and learn the correspondence between known operations in linear algebra and the diagrammatic definitions of these operations in the process theory. 
-
-We will use this correspondence to prove two simple theorems diagrammatically (so bring a pen and a notebook!)
-
-Finally, we will take a glimpse of what an actual reduction of a quantum-information protocol in ZX Calculus would look like, without attempting to understand it. 
-
-### Prerequisites
-None, to understand most of the talk. Knowledge of linear algebra could make the talk more enjoyable. 
-
-### Resources
-The talk is based on the first few chapters of the book Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning
-
-<!-- </p></details> -->
+TBA
 
 
 Upcoming Talks
@@ -108,6 +85,31 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 Past Talks
 ----------
 
+<details><summary>(#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - <a href="https://mahathivempati.blogspot.com/">Mahathi Vempati</a></summary><p>
+
+**Date & Time:** 12-12-2020, 22:15 IST
+
+### Abstract
+ZX Calculus is a rigorous graphical language for reasoning about linear maps between qubits. Besides being useful in quantum circuit optimization and quantum error correction, it is also quite fun to dabble in!
+
+In this talk, we will briefly define ZX Calculus, and understand diagrammatic reasoning, the principle behind ZX Calculus. We will define the term "process theory" diagrammatically.
+
+We will then define some artefacts that process theories can possess. We will state without proof that linear maps can be expressed as a process theory and learn the correspondence between known operations in linear algebra and the diagrammatic definitions of these operations in the process theory.
+
+We will use this correspondence to prove two simple theorems diagrammatically (so bring a pen and a notebook!)
+
+Finally, we will take a glimpse of what an actual reduction of a quantum-information protocol in ZX Calculus would look like, without attempting to understand it.
+
+### Prerequisites
+None, to understand most of the talk. Knowledge of linear algebra could make the talk more enjoyable.
+
+### Resources
+The talk is based on the first few chapters of the book Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning.
+
+[Slides](talk_12_12_20_zx_calculus.pdf)
+
+</p></details>
+
 <details><summary>(#015) <b>Celeste is NP-Complete</b> - <a href="https://github.com/Zshan0 ">Zeeshan Ahmed</a>, <a href="https://github.com/Groverkss">Kunwar Shaanjeet Singh Grover</a></summary><p>
 
 **Date & Time:** 12-12-2020, 22:15 IST
@@ -121,11 +123,10 @@ We will demonstrate one such example where we prove how "Celeste" also shares su
 ### Prerequisites
 Asymptotic Notation (big-O), Boolean Algebra (Basic)
 
-### Resources 
+### Resources
 [Nintendo games are computationally hard](https://arxiv.org/pdf/1203.1895.pdf) (A fun read)
 
-Complexity - [Introduction](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23), 
-[Reductions](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
+Complexity - [Introduction](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23), [Reductions](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
 
 [Recording](https://www.youtube.com/watch?v=1hn1R_Fr1OE) and [Slides](talk_28_11_2020_celeste_npc.pdf)
 
@@ -136,7 +137,7 @@ Complexity - [Introduction](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLU
 **Date & Time:** 21-11-2020, 22:30 IST
 
 ### Abstract
-No forces, no gravity, no accelerations, just cruising along in free space with Taylor and Wheeler as our guides. Our aim is to show that physics is plenty complicated without gravity in the mix. Just accept what Maxwell tells us about light and go from there. 
+No forces, no gravity, no accelerations, just cruising along in free space with Taylor and Wheeler as our guides. Our aim is to show that physics is plenty complicated without gravity in the mix. Just accept what Maxwell tells us about light and go from there.
 
 ### Prerequisites
 - 12th grade math - Vectors and Calculus
