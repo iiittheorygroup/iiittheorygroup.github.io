@@ -37,9 +37,6 @@ Reference: [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/
 Upcoming Talks
 --------------
 
-
-
-
 <details><summary>21-12-2020 <b>|</b> (#016) <b>How to embed languages in proof assistants</b> - Nitin John Raj</summary><p>
 
 ### (#016) How to embed languages in proof assistants - Nitin John Raj
@@ -65,6 +62,16 @@ TBA
 
 </p></details>
 
+
+<details><summary>16-01-2021 <b>|</b> (#020) <b>TBA</b> - Ganesh Vanahalli</summary><p>
+
+**Date & Time:** 16-01-2021, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+
 Give a Talk!
 ------------
 Are you interested in presenting some cool theory topic? Or talking about your research work? Awesome! We are more than glad to host your talk.
@@ -83,7 +90,6 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 **Upcoming free slots:**
 
 **January 2021**
-- 16-01-2021
 - 23-01-2021
 - 30-01-2021
 
