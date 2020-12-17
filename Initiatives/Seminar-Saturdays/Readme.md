@@ -13,21 +13,32 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 Next Talk
 ---------
 
-TBA
+<!-- 
+<details><summary>19-12-2020 <b>|</b> (#018) <b>Noisy Era of Quantum Computing</b> - Utkarsh</summary><p>
+-->
 
+### (#018) Noisy Era of Quantum Computing - Utkarsh
+
+**Date & Time:** 19-12-2020, 22:15 IST
+
+### Abstract
+We will discuss the Noisy Intermediate-Scale Quantum (NISQ) era of quantum computing and recent developments in the field. We will also learn about hybrid quantum-classical algorithms and their applications in domains like optimizations, machine learning, and natural sciences.
+
+### Prerequisites
+Basics of Quantum Computing.
+
+### Resources
+Reference: [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
+
+<!--
+</p></details>
+-->
 
 Upcoming Talks
 --------------
 
 
-<details><summary>19-12-2020 <b>|</b> (#018) <b>Noisy Era of Quantum Computing</b> - Utkarsh</summary><p>
 
-**Date & Time:** 19-12-2020, 22:15 IST
-
-### Abstract
-TBA
-
-</p></details>
 
 <details><summary>21-12-2020 <b>|</b> (#016) <b>How to embed languages in proof assistants</b> - Nitin John Raj</summary><p>
 
