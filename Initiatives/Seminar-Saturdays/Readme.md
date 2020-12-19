@@ -7,37 +7,14 @@ An initiative where one student presents something of their choice every week. I
 
 Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are recorded and uploaded to our YouTube channel too.
 
-[Events Calendar](http://tiny.cc/IIITHTheoryEvents)  
-[Talk Recordings](https://www.youtube.com/playlist?list=PLcCKNfqBwtiU-C6jn-jgr3OaZG7Kwh7es)
+[Events Calendar](http://tiny.cc/IIITHTheoryEvents) **||** [Talk Recordings](https://www.youtube.com/playlist?list=PLcCKNfqBwtiU-C6jn-jgr3OaZG7Kwh7es)
 
 Next Talk
 ---------
 
-<!-- 
-<details><summary>19-12-2020 <b>|</b> (#018) <b>Noisy Era of Quantum Computing</b> - Utkarsh</summary><p>
--->
-
-### (#018) Noisy Era of Quantum Computing - Utkarsh
-
-**Date & Time:** 19-12-2020, 22:15 IST
-
-### Abstract
-We will discuss the Noisy Intermediate-Scale Quantum (NISQ) era of quantum computing and recent developments in the field. We will also learn about hybrid quantum-classical algorithms and their applications in domains like optimizations, machine learning, and natural sciences.
-
-### Prerequisites
-Basics of Quantum Computing.
-
-### Resources
-Reference: [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
-
 <!--
-</p></details>
--->
-
-Upcoming Talks
---------------
-
 <details><summary>21-12-2020 <b>|</b> (#016) <b>How to embed languages in proof assistants</b> - Nitin John Raj</summary><p>
+-->
 
 ### (#016) How to embed languages in proof assistants - Nitin John Raj
 
@@ -51,7 +28,13 @@ Concretely, we will cover:
 1. The contributions of one or two interesting papers, if time permits.
 (Outrageous but Meaningful Coincidences, by Connor McBride and Shallow Embedding of Type Theory is Morally Correct by Ambrus Kaposi)
 
+<!--
 </p></details>
+-->
+
+Upcoming Talks
+--------------
+
 
 <details><summary>09-01-2021 <b>|</b> (#019) <b>TBA</b> - Kritika Prakash</summary><p>
 
@@ -101,6 +84,23 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 
 Past Talks
 ----------
+
+<details><summary>(#018) <b>Noisy Era of Quantum Computing</b> - Utkarsh</summary><p>
+
+**Date & Time:** 19-12-2020, 22:15 IST
+
+### Abstract
+We will discuss the Noisy Intermediate-Scale Quantum (NISQ) era of quantum computing and recent developments in the field. We will also learn about hybrid quantum-classical algorithms and their applications in domains like optimizations, machine learning, and natural sciences.
+
+### Prerequisites
+Basics of Quantum Computing.
+
+### Resources
+Reference: [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
+
+[Recording](https://youtu.be/iM3ZCt0vwNM)
+
+</p></details>
 
 <details><summary>(#017) <b>Y you should ZX: An Introduction to ZX Calculus</b> - <a href="https://mahathivempati.blogspot.com/">Mahathi Vempati</a></summary><p>
 
