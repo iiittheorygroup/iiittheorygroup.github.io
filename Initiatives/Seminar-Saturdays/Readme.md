@@ -98,7 +98,7 @@ Basics of Quantum Computing.
 ### Resources
 Reference: [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 
-[Recording](https://youtu.be/iM3ZCt0vwNM) and [Slides](talk_19_11_2020_qc_nisq.pdf)
+[Recording](https://youtu.be/iM3ZCt0vwNM) and [Slides](talk_19_11_20_qc_nisq.pdf)
 
 </p></details>
 
@@ -145,7 +145,7 @@ Asymptotic Notation (big-O), Boolean Algebra (Basic)
 
 Complexity - [Introduction](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23), [Reductions](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
 
-[Recording](https://www.youtube.com/watch?v=1hn1R_Fr1OE) and [Slides](talk_28_11_2020_celeste_npc.pdf)
+[Recording](https://www.youtube.com/watch?v=1hn1R_Fr1OE) and [Slides](talk_28_11_20_celeste_npc.pdf)
 
 </p></details>
 
