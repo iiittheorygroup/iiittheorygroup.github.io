@@ -109,7 +109,7 @@ The talk is based on the first few chapters of the book Picturing Quantum Proces
 
 </p></details>
 
-<details><summary>(#016) <b>How to embed languages in proof assistants</b> - Nitin John Raj</summary><p>
+<details><summary>(#016) <b>How to embed languages in proof assistants</b> - <a href="https://github.com/njayinthehouse">Nitin John Raj</a></summary><p>
 
 **Date & Time:** 21-12-2020, 22:00 IST
 
