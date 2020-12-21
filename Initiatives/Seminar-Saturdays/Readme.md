@@ -85,7 +85,7 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 Past Talks
 ----------
 
-<details><summary>(#018) <b>Noisy Era of Quantum Computing</b> - Utkarsh</summary><p>
+<details><summary>(#018) <b>Noisy Era of Quantum Computing</b> - <a href="https://www.researchgate.net/profile/Utkarsh_Azad">Utkarsh</a></summary><p>
 
 **Date & Time:** 19-12-2020, 22:15 IST
 
