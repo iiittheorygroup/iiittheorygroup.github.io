@@ -1,4 +1,9 @@
-<!-- commit tag: [SS] -->
+---
+layout: default
+title: Seminar Saturdays
+parent: Initiatives
+commit_tag: "[SS]"
+---
 
 Seminar Saturdays
 =================

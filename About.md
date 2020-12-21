@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Us
+nav_order: 2
+---
+
 About the IIIT Theory Group
 ===========================
 
