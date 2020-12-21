@@ -2,6 +2,7 @@
 layout: default
 title: Past Talks
 parent: Seminar Saturdays
+grand_parent: Initiatives
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 ---
 
