@@ -2,6 +2,7 @@
 layout: default
 title: About Us
 nav_order: 2
+permalink: /About
 ---
 
 About the IIIT Theory Group

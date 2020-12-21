@@ -3,6 +3,7 @@ layout: default
 title: Seminar Saturdays
 parent: Initiatives
 commit_tag: "[SS]"
+permalink: /Initiatives/Seminar-Saturdays
 ---
 
 Seminar Saturdays
