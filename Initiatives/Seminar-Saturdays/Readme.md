@@ -85,7 +85,7 @@ Are you interested in presenting some cool theory topic? Or talking about your r
 Past Talks
 ----------
 
-<details><summary>(#018) <b>Noisy Era of Quantum Computing</b> - <a href="https://www.researchgate.net/profile/Utkarsh_Azad">Utkarsh</a></summary><p>
+<details><summary>(#018) <b>Noisy Era of Quantum Computing</b> - <a href="https://obliviateandsurrender.github.io/">Utkarsh</a></summary><p>
 
 **Date & Time:** 19-12-2020, 22:15 IST
 
@@ -98,7 +98,7 @@ Basics of Quantum Computing.
 ### Resources
 Reference: [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 
-[Recording](https://youtu.be/iM3ZCt0vwNM)
+[Recording](https://youtu.be/iM3ZCt0vwNM) and [Slides](talk_19_11_2020_qc_nisq.pdf)
 
 </p></details>
 
