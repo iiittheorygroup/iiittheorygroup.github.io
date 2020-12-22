@@ -12,7 +12,7 @@ IIIT Theory Group
 
 Initiatives
 -----------
-### [Seminar Saturdays](Initiatives/Seminar-Saturdays/)
+### [Seminar Saturdays](Initiatives/Seminar-Saturdays)
 
 Calendar
 --------
