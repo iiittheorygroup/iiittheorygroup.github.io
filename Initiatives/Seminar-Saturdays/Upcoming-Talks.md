@@ -34,3 +34,12 @@ TBA
 
 </p></details>
 
+<details><summary>23-01-2021 <b>|</b> (#021) <b>TBA</b> - Abhinav Vaishya</summary><p>
+
+**Date & Time:** 23-01-2021, 22:15 IST
+
+### Abstract
+TBA
+
+</p></details>
+

@@ -29,7 +29,6 @@ Upcoming free slots
 -------------------
 
 **January 2021**
-- 23-01-2021
 - 30-01-2021
 
 **February 2021**
