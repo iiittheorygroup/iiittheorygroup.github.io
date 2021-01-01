@@ -3,7 +3,7 @@ layout: default
 title: Give A Talk
 parent: Seminar Saturdays
 grand_parent: Initiatives
-nav_order: 2
+nav_order: 30
 permalink: /Initiatives/Seminar-Saturdays/Give-A-Talk
 ---
 

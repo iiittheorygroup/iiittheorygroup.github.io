@@ -3,7 +3,7 @@ layout: default
 title: Past Talks
 parent: Seminar Saturdays
 grand_parent: Initiatives
-nav_order: 4
+nav_order: 100
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 ---
 

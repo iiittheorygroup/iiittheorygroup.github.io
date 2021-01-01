@@ -21,4 +21,4 @@ Vision
 
 The seminars were initially started as a way to share ideas and learn theory together. We hosted talks on various topics given by current students. With time, we shifted the focus to research seminars. Research students in different fields would come and talk about their line of work, open problems and how it is in general.
 
-We are looking for active researchers (both current students and alumni) to come and give talks, and share their knowledge and experience with young aspiring researchers. If you are interested or know someone who is, please [hit us up](Give-A-Talk)!
+We are looking for active researchers (both current students and alumni) to come and give talks, and share their knowledge and experience with young aspiring researchers. If you are interested or know someone who is, please [hit us up](Seminar-Saturdays/Give-A-Talk)!
