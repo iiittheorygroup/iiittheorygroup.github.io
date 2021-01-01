@@ -21,11 +21,11 @@ Talk Information
 ----------------
 A week before the talk, please provide us the following information when we contact you:
 
-- Title
-- Date/Time (Default time is 22:15 IST, but can be adjusted on request)
-- Abstract (A brief overview of what the talk will be about)
-- Prerequisites
-- Resources
+- **Title**
+- **Date/Time** (Default time is 22:15 IST, but can be adjusted on request)
+- **Abstract** - A brief overview of what the talk will be about
+- **Prerequisites** - Helps the audience be more prepared for the talk
+- **Resources** - Additional resources, so that those interested can read up
 
 After the talk, we usually collect the following and make them available publicly:
 
