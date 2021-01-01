@@ -10,6 +10,9 @@ permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 Past Talks
 ==========
 
+Monsoon 2020
+------------
+
 <details><summary>(#018) <b>Noisy Era of Quantum Computing</b> - <a href="https://obliviateandsurrender.github.io/">Utkarsh</a></summary><p>
 
 **Date & Time:** 19-12-2020, 22:15 IST
