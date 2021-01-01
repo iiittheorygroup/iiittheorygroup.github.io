@@ -10,23 +10,32 @@ permalink: /Initiatives/Seminar-Saturdays/Give-A-Talk
 Give a Talk!
 ============
 
-Are you interested in presenting some cool theory topic? Or talking about your research work? Awesome! We are more than glad to host your talk.
+Are you interested in giving a theory seminar? We are open to talks on research fields or interesting theory topics!
 
 To schedule a talk:
 -------------------
 
-- Pick a free slot from the [calendar](http://tiny.cc/IIITHTheoryEvents) (the ones prefixed with `(???)`)
-- Ping a seminar admin on discord, using the role `@seminar-admin`. You can also DM them if you like.
-- Give them the talk title, and voila!
-- The Wednesday before the talk, post the following details on the `#seminar-saturdays` channel
-    + Title
-    + Date/Time and Venue
-    + Abstract (A short introduction to the topic)
-    + Prerequisites \[optional]
-    + Resources \[optional]
+Fill out this [form](https://forms.gle/HN8nWzX3hQ2j3eP77) and we'll get in touch with you!
+
+Talk Information
+----------------
+A week before the talk, please provide us the following information when we contact you:
+
+- Title
+- Date/Time (Default time is 22:15 IST, but can be adjusted on request)
+- Abstract (A brief overview of what the talk will be about)
+- Prerequisites
+- Resources
+
+After the talk, we usually collect the following and make them available publicly:
+
+- Talk slides and resources (code etc.)
+- Talk recording (will be done by us, if consented)
 
 Upcoming free slots
 -------------------
+
+For quick reference:
 
 **January 2021**
 - 30-01-2021
@@ -37,3 +46,4 @@ Upcoming free slots
 - 20-02-2021
 - 27-02-2021
 
+(For all the slots, please check the calendar events with the tag `[Seminar Saturdays]`)
