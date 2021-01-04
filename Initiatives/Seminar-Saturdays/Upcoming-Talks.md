@@ -7,22 +7,30 @@ nav_order: 20
 permalink: /Initiatives/Seminar-Saturdays/Upcoming-Talks
 ---
 
+Current Season: Spring 2021
+---------------------------
+
 Next Talk
 =========
 
-**Season Break**
-
-Future Talks
-==============
-
+<!--
 <details><summary>09-01-2021 <b>|</b> (#019) <b>TBA</b> - Kritika Prakash</summary><p>
+-->
+
+(#019) **Introduction to Differential Privacy** - [Kritika Prakash](https://kritikalcoder.github.io/)
 
 **Date & Time:** 09-01-2021, 22:15 IST
 
 ### Abstract
 TBA
 
+<!--
 </p></details>
+-->
+
+Future Talks
+==============
+
 
 
 <details><summary>16-01-2021 <b>|</b> (#020) <b>TBA</b> - Ganesh Vanahalli</summary><p>
