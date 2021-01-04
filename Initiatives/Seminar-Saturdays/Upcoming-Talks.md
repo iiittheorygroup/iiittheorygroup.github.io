@@ -14,7 +14,7 @@ Next Talk
 =========
 
 <!--
-<details><summary>09-01-2021 <b>|</b> (#019) <b>TBA</b> - Kritika Prakash</summary><p>
+<details><summary>09-01-2021 <b>|</b> (#019) <b>TBA</b> - <a href="https://kritikalcoder.github.io/">Kritika Prakash</a></summary><p>
 -->
 
 (#019) **Introduction to Differential Privacy** - [Kritika Prakash](https://kritikalcoder.github.io/)
@@ -32,8 +32,7 @@ Future Talks
 ==============
 
 
-
-<details><summary>16-01-2021 <b>|</b> (#020) <b>TBA</b> - Ganesh Vanahalli</summary><p>
+<details><summary>16-01-2021 <b>|</b> (#020) <b>TBA</b> - <a href="https://scholar.google.com/citations?user=o7lihv0L59cC&hl=en">Ganesh Vanahalli</a></summary><p>
 
 **Date & Time:** 16-01-2021, 22:15 IST
 
