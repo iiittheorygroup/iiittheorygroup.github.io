@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About Us
-nav_order: 2
-permalink: /About
+title: Welcome
+nav_order: 1
+permalink: /
 ---
 
 About the IIIT Theory Group
