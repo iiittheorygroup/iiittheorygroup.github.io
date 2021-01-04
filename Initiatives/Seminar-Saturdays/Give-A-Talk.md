@@ -15,7 +15,6 @@ Are you interested in giving a theory seminar? We are open to talks on research 
 To schedule a talk:
 -------------------
 
-Fill out this form and we'll get in touch with you!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXV9bmWe7Shto9iOxbuYB3D03_KIMhlFH2JS2iOaL6qNsBzg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Talk Information
