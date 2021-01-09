@@ -13,19 +13,23 @@ Current Season: Spring 2021
 Next Talk
 =========
 
-
-Future Talks
-==============
-
-
+<!--
 <details><summary>16-01-2021 <b>|</b> (#020) <b>TBA</b> - <a href="https://scholar.google.com/citations?user=o7lihv0L59cC&hl=en">Ganesh Vanahalli</a></summary><p>
+-->
+
+## (#020) **TBA** - [Ganesh Vanahalli](https://scholar.google.com/citations?user=o7lihv0L59cC&hl=en)
 
 **Date & Time:** [16-01-2021, 22:15 IST](https://www.google.com/calendar/event?eid=bG9idWRqYWVzMDJjMG5xaXBmdmF2aWR1OTJfMjAyMTAxMTZUMTY0NTAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
 
 ### Abstract
 TBA
 
+<!--
 </p></details>
+-->
+
+Future Talks
+==============
 
 <details><summary>23-01-2021 <b>|</b> (#021) <b>Coded Data Rebalancing</b> - <a href="https://in.linkedin.com/public-profile/in/abhinavvaishya">Abhinav Vaishya</a></summary><p>
 
