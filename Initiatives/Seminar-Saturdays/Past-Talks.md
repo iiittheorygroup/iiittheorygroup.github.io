@@ -10,6 +10,24 @@ permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 Past Talks
 ==========
 
+Spring 2020
+-----------
+
+<details><summary>(#019) <b>Introduction to Differential Privacy</b> - <a href="https://kritikalcoder.github.io/">Kritika Prakash</a></summary><p>
+
+**Date & Time:** [09-01-2021, 22:15 IST](https://www.google.com/calendar/event?eid=bG9idWRqYWVzMDJjMG5xaXBmdmF2aWR1OTJfMjAyMTAxMDlUMTY0NTAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
+
+### Abstract
+This seminar will look into the need for computational privacy, the basics of differential privacy, and how it is used to analyze data. Differential privacy is a system for publicly sharing information about a dataset by describing the patterns of groups within the dataset while withholding information about individuals in the dataset. Differentially private mechanisms can make confidential data widely available for accurate data analysis. Differential Privacy provides us with a mathematical guarantee on the upper bound of privacy loss, for any query. It is a very recent sub-field of cryptography, and is being deployed in real-world companies such as Google and Apple. It is a thriving research area and has applications in Machine Learning.
+
+### Prerequisites
+Basic understanding of algorithms and probability.
+
+### Resources
+[Slides](talk_09_01_21_diff_priv.pdf) and [Recording](https://youtu.be/zrh0r-bs1Dk)
+
+</p></details>
+
 Monsoon 2020
 ------------
 
