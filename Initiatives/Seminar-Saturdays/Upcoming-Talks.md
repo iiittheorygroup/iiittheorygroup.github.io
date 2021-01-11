@@ -17,7 +17,7 @@ Next Talk
 <details><summary>16-01-2021 <b>|</b> (#020) <b>BitcoinF: Achieving Fairness for Bitcoin in Transaction-Fee-Only Model</b> - <a href="https://scholar.google.com/citations?user=o7lihv0L59cC&hl=en">Ganesh Vanahalli</a></summary><p>
 -->
 
-(#020) **BitcoinF: Achieving Fairness for Bitcoin in Transaction-Fee-Only Model** - [Ganesh Vanahalli](https://scholar.google.com/citations?user=o7lihv0L59cC&hl=en)
+(#020) BitcoinF: Achieving Fairness for Bitcoin in Transaction-Fee-Only Model - [Ganesh Vanahalli](https://scholar.google.com/citations?user=o7lihv0L59cC&hl=en)
 --------
 
 **Date & Time:** [16-01-2021, 22:15 IST](https://www.google.com/calendar/event?eid=bG9idWRqYWVzMDJjMG5xaXBmdmF2aWR1OTJfMjAyMTAxMTZUMTY0NTAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
