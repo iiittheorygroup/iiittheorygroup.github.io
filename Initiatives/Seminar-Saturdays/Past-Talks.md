@@ -95,7 +95,7 @@ Concretely, we will cover:
 
 <details><summary>(#015) <b>Celeste is NP-Complete</b> - <a href="https://github.com/Zshan0 ">Zeeshan Ahmed</a>, <a href="https://github.com/Groverkss">Kunwar Shaanjeet Singh Grover</a></summary><p>
 
-**Date & Time:** 12-12-2020, 22:15 IST
+**Date & Time:** 28-11-2020, 22:15 IST
 
 ### Abstract
 Computers can solve a wide spectrum of problems, but they can't solve all the problems, some problems can never have a solution, some problems can be, but they require more space the size of the universe, or more time than the age of the universe on our computational models. So how do we measure such aspects of a problem? we do that using Complexity Theory, which deals with how and why a problem is harder than a different problem, and how to classify problems based on the resources they require.
