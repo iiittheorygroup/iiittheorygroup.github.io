@@ -69,7 +69,7 @@ None, to understand most of the talk. Knowledge of linear algebra could make the
 ### Resources
 The talk is based on the first few chapters of the book Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning.
 
-[Slides](talk_12_12_20_zx_calculus.pdf)
+[Recording](https://www.youtube.com/watch?v=_eUWh5NIcy8) and [Slides](talk_12_12_20_zx_calculus.pdf)
 
 </p></details>
 
