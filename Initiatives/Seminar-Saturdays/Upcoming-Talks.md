@@ -27,6 +27,9 @@ In distributed storage systems, data is usually stored in a distributed fashion 
 ### Prerequisites
 None
 
+### Resources
+[Coded Data Rebalancing: Fundamental Limits and Constructions](https://arxiv.org/abs/2001.04939)
+
 <!--
 </p></details>
 -->
