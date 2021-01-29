@@ -10,7 +10,7 @@ permalink: /Initiatives/Seminar-Saturdays
 Seminar Saturdays
 =================
 
-An initiative where students present something of their choice every week. It could be a research paper/topic/field/concept etc. A short 30-60 minute presentation, followed by an audience interaction.
+An initiative where students present something of their choice every alternate week. It could be a research paper/topic/field/concept etc. A short 30-60 minute presentation, followed by an audience interaction.
 
 Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are recorded and uploaded to our YouTube channel too.
 

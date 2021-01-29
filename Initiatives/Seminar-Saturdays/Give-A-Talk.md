@@ -38,9 +38,13 @@ Upcoming free slots
 For quick reference:
 
 **February 2021**
-- 06-02-2021
 - 13-02-2021
-- 20-02-2021
 - 27-02-2021
+**March 2021**
+- 13-03-2021
+- 27-03-2021
+**April 2021**
+- 10-04-2021
+- 24-04-2021
 
 (For all the slots, please check the calendar events with the tag `[Seminar Saturdays]`)
