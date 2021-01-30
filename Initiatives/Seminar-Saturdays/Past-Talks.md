@@ -311,30 +311,6 @@ None! Just come and enjoy the show
 
 </p></details>
 
-<details><summary>(#006) <b>Automated Theorem Proving</b> - <a href="https://github.com/anurudhp">Anurudh Peduri</a></summary><p>
-
-**Date & Time:** 26-09-2020, 22:15 IST
-
-### Automated Theorem Proving: A humble computer's Math PhD dissertation
-
-### Abstract
-An introduction to Proof Assistants, and how automated theorem proving actually works. We will see how to formally specify math propositions and proofs to a computer so that they can be verified.
-
-
-### Prerequisites
-None! Just basic high school math.
-
-
-### Resources
-[Coq](https://coq.inria.fr/) and [Lean](https://leanprover.github.io/) theorem provers.
-There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant) too.
-
-[Lean Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)
-
-[Talk Slides](talk_27_09_20_theorem_proving.pdf) and [Recording](https://www.youtube.com/watch?v=tzM9acXSmtU)
-
-</p></details>
-
 
 - [](/Initiatives/Seminar-Saturdays/Past-Talks/016)
 - [](/Initiatives/Seminar-Saturdays/Past-Talks/016)
@@ -347,7 +323,7 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 - [](/Initiatives/Seminar-Saturdays/Past-Talks/009)
 - [](/Initiatives/Seminar-Saturdays/Past-Talks/008)
 - [](/Initiatives/Seminar-Saturdays/Past-Talks/007)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/006)
+- [(#006) **Automated Theorem Proving** - Anurudh Peduri](Past-Talks/006)
 - [(#005) **Origami ∩ Math** - Athreya C](/Initiatives/Seminar-Saturdays/Past-Talks/005)
 - [(#004) **Spectral Graph Theory** - Tanmay Kumar Sinha](/Initiatives/Seminar-Saturdays/Past-Talks/004)
 - [(#003) **Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT** - Arjun P](/Initiatives/Seminar-Saturdays/Past-Talks/003)
