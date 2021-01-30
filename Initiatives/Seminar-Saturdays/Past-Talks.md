@@ -4,7 +4,6 @@ title: Past Talks
 parent: Seminar Saturdays
 grand_parent: Initiatives
 nav_order: 100
-has_children: true
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 ---
 
@@ -401,11 +400,8 @@ Basic definitions, homomorphisms, actions, Lagrange's theorem, Isomorphism Theor
 
 </p></details>
 
-<details><summary>(#001) <b>Quantum Approximate Counting</b> - <a href="https://thecharmingsociopath.github.io/">Aditya Morolia</a></summary><p>
 
-**Date & Time:** 22-08-2020, 21:00 IST
+- [(#001) **Quantum Approximate Counting** - Aditya Morolia](./001)
+- [(#001) **Quantum Approximate Counting** - Aditya Morolia](./001)
+- [(#001) **Quantum Approximate Counting** - Aditya Morolia](./001)
 
-### Abstract
-Presentation of the paper [Quantum Approximate Counting, Simplified](https://arxiv.org/pdf/1908.10846.pdf)
-
-</p></details>
