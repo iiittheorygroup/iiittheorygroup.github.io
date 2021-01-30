@@ -1,10 +1,10 @@
 ---
 layout: default
 parent: Seminar Saturdays
-title: "#003 (Monsoon 2020)"
+title: "#009 (Monsoon 2020)"
 grand_parent: Initiatives
 nav_exclude: true
-permalink: /Initiatives/Seminar-Saturdays/Past-Talks/003
+permalink: /Initiatives/Seminar-Saturdays/Past-Talks/009
 ---
 
 (#009) **A Tour On Optimization Methods** - [Jayadev Naram](https://in.linkedin.com/in/jayadev-naram-468764167)
@@ -18,9 +18,10 @@ An optimization method solves the problem of finding the minimizer of a function
 ### Prerequisites
 Multivariable differential calculus
 
-### Resources 
+### Resources
 [J. Nocedal and S. Wright, Numerical Optimization](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)
 
-[Talk Slides](talk_17_10_20_opt_methods.pdf)
+[Talk Slides](slides_009.pdf)
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/HHbBttEK8R0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

@@ -19,5 +19,5 @@ Presenting the proof from Dummit & Foote, so that is the reading material (secti
 Basic definitions, homomorphisms, actions, Lagrange's theorem, Isomorphism Theorems, Class Equation
 
 ### Resources
-[Talk Slides](talk_29_08_20_sylow.pdf)
+[Talk Slides](slides_002.pdf)
 

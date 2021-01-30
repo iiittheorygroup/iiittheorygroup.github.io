@@ -24,7 +24,7 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 
 [Lean Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 
-[Talk Slides](talk_27_09_20_theorem_proving.pdf)
+[Talk Slides](slides_006.pdf)
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/tzM9acXSmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

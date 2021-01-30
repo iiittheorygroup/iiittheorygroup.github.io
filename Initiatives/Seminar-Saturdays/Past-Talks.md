@@ -238,27 +238,6 @@ Linear Algebra - Eigenvalues and Eigenvectors, Positive Semidefiniteness.
 
 </p></details> 
 
-
-<details><summary>(#010) <b>Quantum Walks and its Applications</b> - <a href="https://www.qusoft.org/patro/">Subhasree Patro</a></summary><p>
-
-**Date & Time:** 24-10-2020, 22:15 IST
-
-### Abstract
-We will first discuss the basic quantum walk algorithm and we will see how, in the query complexity model, quantum walks can be applied to achieve better than classical query algorithms for the Element Distinctness problem and (if time permits) the Triangle Finding problem.
-
-### Prerequisites
-Basics of Quantum Computing, Grover’s algorithm, Query complexity.
-
-### Resources
-Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf)  
-[Talk Recording](https://youtu.be/jE-luDw0yLY) and [Whiteboard](https://onedrive.live.com/view.aspx?resid=AF40D4840AF9F3D!140&authkey=!ABPa2npoEn95caQ)
-
-### About the Speaker
-[Subhasree Patro](https://www.qusoft.org/patro/) is a PhD student at the [Algorithms and Complexity Group at CWI, Amsterdam](https://www.cwi.nl/research/groups/algorithms-and-complexity) and [QuSoft](https://www.qusoft.org/). She currently works on Conditional Quantum Time Lower Bounds under the guidance of Harry Buhrman. She has made impactful contributions to the field, including her recent paper titled [The Quantum Strong Exponential-Time Hypothesis](https://arxiv.org/abs/1911.05686). She had previously done her masters at IIIT-H on Quantum Information Theory.
-
-</p></details>
-
-
 - [](Past-Talks/016)
 - [](Past-Talks/016)
 - [](Past-Talks/015)
@@ -266,7 +245,7 @@ Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi
 - [](Past-Talks/013)
 - [](Past-Talks/012)
 - [](Past-Talks/011)
-- [](Past-Talks/010)
+- [(#010) **Quantum Walks and its Applications** - Subhasree Patro](Past-Talks/010)
 - [(#009) **A Tour On Optimization Methods** - Jayadev Naram](Past-Talks/009)
 - [(#008) **p-adics** - Siddharth Bhat](Past-Talks/008)
 - [(#007) **Two proofs in the margin** Bharathi Ramana Joshi](Past-Talks/007)

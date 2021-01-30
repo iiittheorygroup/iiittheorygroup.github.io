@@ -23,5 +23,5 @@ This slideshow (page 7 & 8) are most of the content of the talk: https://cse.buf
 
 For more on the probabilistic method, you can see the textbook titled (surprise!) the Probabilistic Method by Alon & Spencer.
 
-[Talk Slides](talk_05_09_20_e3sat.pdf)
+[Talk Slides](slides_003.pdf)
 
