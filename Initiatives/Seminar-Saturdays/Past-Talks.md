@@ -10,7 +10,7 @@ permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 Past Talks
 ==========
 
-Spring 2020
+Spring 2021 (Jan - Apr)
 -----------
 
 <details><summary>23-01-2021 <b>|</b> (#021) <b>Coded Data Rebalancing</b> - <a href="https://in.linkedin.com/public-profile/in/abhinavvaishya">Abhinav Vaishya</a></summary><p>
@@ -62,7 +62,7 @@ Basic understanding of algorithms and probability.
 
 </p></details>
 
-Monsoon 2020
+Monsoon 2020 (Aug - Dec)
 ------------
 
 <details><summary>(#018) <b>Noisy Era of Quantum Computing</b> - <a href="https://obliviateandsurrender.github.io/">Utkarsh</a></summary><p>
