@@ -4,6 +4,7 @@ title: Seminar Saturdays
 parent: Initiatives
 commit_tag: "[SS]"
 has_children: true
+has_toc: false
 permalink: /Initiatives/Seminar-Saturdays
 ---
 
