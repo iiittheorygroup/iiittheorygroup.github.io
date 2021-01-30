@@ -401,7 +401,7 @@ Basic definitions, homomorphisms, actions, Lagrange's theorem, Isomorphism Theor
 </p></details>
 
 
-- [(#001) **Quantum Approximate Counting** - Aditya Morolia](./001)
-- [(#001) **Quantum Approximate Counting** - Aditya Morolia](./001)
-- [(#001) **Quantum Approximate Counting** - Aditya Morolia](./001)
+- [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
+- [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
+- [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
 
