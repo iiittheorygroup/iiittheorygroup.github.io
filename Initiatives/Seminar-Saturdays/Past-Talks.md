@@ -385,23 +385,6 @@ For more on the probabilistic method, you can see the textbook titled (surprise!
 
 </p></details>
 
-<details><summary>(#002) <b>Sylow's theorem & unsolvability of the quintic</b> - <a href="https://bharathi.xyz/">Bharathi Ramana Joshi</a></summary><p>
-
-**Date & Time:** 29-08-2020, 21:00 IST
-
-### Abstract
-Presenting the proof from Dummit & Foote, so that is the reading material (section 4.5 does Sylow's theorem)
-
-### Prerequisites
-Basic definitions, homomorphisms, actions, Lagrange's theorem, Isomorphism Theorems, Class Equation
-
-### Resources
-[Talk Slides](talk_29_08_20_sylow.pdf)
-
-</p></details>
-
-
-- [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
-- [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
+- [(#002) **Sylow's theorem & unsolvability of the quintic** - Bharathi Ramana Joshi](/Initiatives/Seminar-Saturdays/Past-Talks/002)
 - [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
 
