@@ -26,5 +26,5 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 
 [Talk Slides](talk_27_09_20_theorem_proving.pdf)
 
-<iframe width="800" height="480" src="https://www.youtube.com/embed/tzM9acXSmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/tzM9acXSmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

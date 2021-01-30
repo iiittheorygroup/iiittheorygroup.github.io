@@ -259,74 +259,21 @@ Reference: [Chapter 8 of Ronald de Wolf’s lecture notes](https://homepages.cwi
 </p></details>
 
 
-<details><summary>(#009) <b>A Tour On Optimization Methods</b> - <a href="https://in.linkedin.com/in/jayadev-naram-468764167">Jayadev Naram</a></summary><p>
-
-**Date & Time:** 17-10-2020, 22:15 IST
-
-### Abstract
-An optimization method solves the problem of finding the minimizer of a function in a given search space. There are a wide variety of optimization algorithms used in applications. But to guarantee global or even local optimality one needs the problem to satisfy some set of conditions. Usually, the function considered will be differentiable upto the 2nd order. For these types of problems there is a rich class of optimization methods which are provably optimal. This class of algorithms is broadly classified into - Line Search Methods and Trust Region Methods. This talk gives an overview of these classes of optimization algorithms along with a brief discussion of convergence results.
-
-### Prerequisites
-Multivariable differential calculus
-
-### Resources 
-[J. Nocedal and S. Wright, Numerical Optimization](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)
-
-[Talk Slides](talk_17_10_20_opt_methods.pdf) and [Recording](https://www.youtube.com/watch?v=HHbBttEK8R0)
-
-</p></details>
-
-<details><summary>(#008) <b>p-adics</b> - <a href="http://bollu.github.io/">Siddharth Bhat</a></summary><p>
-  
-**Date & Time:** 10-10-2020, 23:00 IST
-  
-### Abstract 
-The integers and polynomials of a single variable look tantalizingly similar. Many of our intuitions about factorizations, primality, GCD, LCM, and other number-theoretic operations work "equally well" on  single-variable polynomials. 
-
-However, single-variable polynomials appear to provide a richer theory at first glance:  We can evaluate polynomials, differentiate them, take their taylor series expansion, and other operations which are hinged on the ability to interpret a polynomial as a function. We shall embark on a quest to port these operations back into number-land. This will lead us to eventually define the p-adics, which can be viewed as the "correct way" to transport the ability to evaluate a single-variable polynomial back into the integers. 
-
-Some cute counter intuitive results will be shown. Delight shall hopefully be had. No theorems of consequence will be  demonstrated, since my knowledge of these p-adics is limited.
-
-### Resources
-The reference material for the talk is the first three to four chapters of the book, "p-adic numbers, an introduction" by Fernando Gouvea: https://www.springer.com/us/book/9783642590580
-
-[Talk Slides](https://github.com/bollu/notes/blob/master/slides-intro-p-adics/slides.pdf) and [Recording](https://www.youtube.com/watch?v=95vqTNmMe9s)
-
-</p></details>
-
-<details><summary>(#007) <b>Two proofs in the margin</b> - <a href="https://bharathi.xyz/">Bharathi Ramana Joshi</a></summary><p>
-
-**Date & Time:** 03-10-2020, 22:15 IST
-
-### Abstract
-Hailed as the queen of mathematics, number theory is one of the most accessible, yet most abstract areas of mathematics. Fermat's Last Theorem, which states that there are no positive integers a, b, c such that a^n + b^n = c^n  for any integer value of n > 2, remaind unsolved for 358 years and is the theorem with the largest number of unsuccessful proofs. Although the proof for any n uses heavy machinery from algebraic number theory (indeed, the conjecture drove the development of much of it), the proof for the special case n=4 uses a technique named infinite descent and is accessible. This talk demonstrates application of infinite descent to the n=4 case and two proofs for the same.
-
-### Prerequisites
-Highschool level understanding of number theory; specifically GCD, pythagorean triples and modular arithmetic (congruence mod n relation).
-
-### Resources
-None! Just come and enjoy the show
-
-[Talk Slides](talk_04_10_20_flt4.pdf) and [Recording](https://www.youtube.com/watch?v=yU7YCuNdV3Q)
-
-</p></details>
-
-
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/016)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/016)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/015)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/014)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/013)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/012)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/011)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/010)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/009)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/008)
-- [](/Initiatives/Seminar-Saturdays/Past-Talks/007)
+- [](Past-Talks/016)
+- [](Past-Talks/016)
+- [](Past-Talks/015)
+- [](Past-Talks/014)
+- [](Past-Talks/013)
+- [](Past-Talks/012)
+- [](Past-Talks/011)
+- [](Past-Talks/010)
+- [(#009) **A Tour On Optimization Methods** - Jayadev Naram](Past-Talks/009)
+- [(#008) **p-adics** - Siddharth Bhat](Past-Talks/008)
+- [(#007) **Two proofs in the margin** Bharathi Ramana Joshi](Past-Talks/007)
 - [(#006) **Automated Theorem Proving** - Anurudh Peduri](Past-Talks/006)
-- [(#005) **Origami ∩ Math** - Athreya C](/Initiatives/Seminar-Saturdays/Past-Talks/005)
-- [(#004) **Spectral Graph Theory** - Tanmay Kumar Sinha](/Initiatives/Seminar-Saturdays/Past-Talks/004)
-- [(#003) **Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT** - Arjun P](/Initiatives/Seminar-Saturdays/Past-Talks/003)
-- [(#002) **Sylow's theorem & unsolvability of the quintic** - Bharathi Ramana Joshi](/Initiatives/Seminar-Saturdays/Past-Talks/002)
-- [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
+- [(#005) **Origami ∩ Math** - Athreya C](Past-Talks/005)
+- [(#004) **Spectral Graph Theory** - Tanmay Kumar Sinha](Past-Talks/004)
+- [(#003) **Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT** - Arjun P](Past-Talks/003)
+- [(#002) **Sylow's theorem & unsolvability of the quintic** - Bharathi Ramana Joshi](Past-Talks/002)
+- [(#001) **Quantum Approximate Counting** - Aditya Morolia](Past-Talks/001)
 
