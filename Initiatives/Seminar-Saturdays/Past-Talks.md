@@ -4,6 +4,7 @@ title: Past Talks
 parent: Seminar Saturdays
 grand_parent: Initiatives
 nav_order: 100
+has_children: true
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 ---
 
