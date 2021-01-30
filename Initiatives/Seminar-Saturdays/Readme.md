@@ -15,7 +15,7 @@ An initiative where students present something of their choice every alternate w
 
 Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are recorded and uploaded to our YouTube channel too.
 
-[Events Calendar](http://tiny.cc/IIITHTheoryEvents) **|** [Talk Recordings](https://www.youtube.com/playlist?list=PLcCKNfqBwtiU-C6jn-jgr3OaZG7Kwh7es)
+[Events Calendar](/Calendar) **|** [Talk Recordings](https://www.youtube.com/playlist?list=PLcCKNfqBwtiU-C6jn-jgr3OaZG7Kwh7es)
 
 Vision
 ------
