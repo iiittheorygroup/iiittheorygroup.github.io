@@ -335,56 +335,22 @@ There are other [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant
 
 </p></details>
 
-<details><summary>(#005) <b>Origami ∩ Math</b> - <a href="https://cathreya.github.io/ ">Athreya C</a></summary><p>
 
-**Date & Time:** 19-09-2020, 22:15 IST
-
-### Abstract
-Will approach the problem of Origami design from a math persepective. I will try to motivate why this is important, and then try to give some insight into how the techniques behind modern Origami design were developed by giving some key moments in its history. Finally I will describe one of the most powerful and generalizable techniques to design Origami.
-
-Most of my talk will be directly from material in Origami Design Secrets, 2nd Edition by Robert J. Lang
-
-### Prerequisites
-None!
-
-### Resources
-[Talk Slides](https://docs.google.com/presentation/d/1YZXazUE1Tv8IZhOKNho903jNZn1V-ibD0HDHSbcmGAI/) and [Recording](https://www.youtube.com/watch?v=Ikgq1AdFpAY)
-
-</p></details>
-<details><summary>(#004) <b>Spectral Graph Theory</b> - <a href="https://github.com/Tanmay-Kumar-Sinha">Tanmay Kumar Sinha</a></summary><p>
-
-**Date & Time:** 12-09-2020, 21:00 IST
-
-### Abstract
-I will be covering introductory material on spectral graph theory(defining the matrices associated to a graph, some properties of these matrices, and then some graph theory problems that can be solved using linear algebraic methods)
-
-### Prerequisites
-Basic linear algebra and graph theory
-
-### Resources
-The main resource will be 1st and possibly 2nd chapter of the book Spectra of Graphs, by Brouwer and Haemers(https://www.win.tue.nl/~aeb/2WF02/spectra.pdf). Another good resource is the following - (http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf)
-
-</p></details>
-
-<details><summary>(#003) <b>Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT</b> - <a href="https://github.com/Superty">Arjun P</a></summary><p>
-
-**Date & Time:** 05-09-2020, 21:00 IST
-
-### Abstract
-We'll look at a trivial-looking randomized approximation algorithm for MAX-E3SAT, the problem of satisfying as many clauses as possible in a special kind of 3SAT instance. We'll then introduce the probabilistic method and see how it can use our algorithm to say something about the satisfiability of arbitrary E3SAT instances. Finally, we will discuss how one could obtain a deterministic approximation algorithm for the same problem.
-
-### Prerequisites
-Basic probability and expectations, linearity of expectations, conditional expectation. Knowing what 3SAT and NP-Completeness are would be required to appreciate the significance, but not necessarily to follow the discussion [For the latter, consult any textbook on complexity theory, e.g., Arora-Barak]
-
-### Resources
-This slideshow (page 7 & 8) are most of the content of the talk: https://cse.buffalo.edu/~hungngo/classes/2008/694/notes/rr-sat.pdf. From a quick google, I couldn't find anything that talks about it in more detail for this particular problem, but the ideas are the same. This technique for derandomization is called the method of conditional expectations.
-
-For more on the probabilistic method, you can see the textbook titled (surprise!) the Probabilistic Method by Alon & Spencer.
-
-[Talk Slides](talk_05_09_20_e3sat.pdf)
-
-</p></details>
-
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/016)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/016)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/015)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/014)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/013)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/012)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/011)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/010)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/009)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/008)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/007)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/006)
+- [](/Initiatives/Seminar-Saturdays/Past-Talks/005)
+- [(#004) **Spectral Graph Theory** - Tanmay Kumar Sinha](/Initiatives/Seminar-Saturdays/Past-Talks/004)
+- [(#003) **Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT** - Arjun P](/Initiatives/Seminar-Saturdays/Past-Talks/003)
 - [(#002) **Sylow's theorem & unsolvability of the quintic** - Bharathi Ramana Joshi](/Initiatives/Seminar-Saturdays/Past-Talks/002)
 - [(#001) **Quantum Approximate Counting** - Aditya Morolia](/Initiatives/Seminar-Saturdays/Past-Talks/001)
 
