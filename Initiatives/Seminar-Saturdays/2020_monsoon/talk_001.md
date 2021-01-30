@@ -1,9 +1,9 @@
 ---
 layout: default
-title:
-parent: Past Talks
-grand_parent: Seminar Saturdays
+parent: Seminar Saturdays
+grand_parent: Initiatives
 nav_order: -1
+nav_exclude: true
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks/001
 ---
 
