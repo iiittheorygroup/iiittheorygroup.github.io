@@ -16,5 +16,6 @@ Are you interested in knowing about some topic? Would you like someone to conduc
 
 Current Responses
 -----------------
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc2sadHdCE2X8q5dHLHt_MtFaQJSbyQhbrIEk9qbWI8XB7x_9OEGnrjK_DIaBjvr70KuuWfF0IF3Hg/pubhtml?gid=1447660715&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc2sadHdCE2X8q5dHLHt_MtFaQJSbyQhbrIEk9qbWI8XB7x_9OEGnrjK_DIaBjvr70KuuWfF0IF3Hg/pubhtml?gid=1447660715&amp;single=true&amp;widget=true&amp;headers=false" width="900" height="500"></iframe>
 
