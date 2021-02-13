@@ -13,6 +13,7 @@ Past Talks
 Spring 2021 (Jan - Apr)
 -----------
 
+- [(#023) **Markov Chain Monte Carlo (MCMC)** - Athreya C](Past-Talks/023)
 - [(#022) **PCPs and Hardness of Approximation** - Aditya Morolia](Past-Talks/022)
 - [(#021) **Coded Data Rebalancing** - Abhinav Vaishya](Past-Talks/021)
 - [(#020) **BitcoinF: Achieving Fairness for Bitcoin in Transaction-Fee-Only Model** - Ganesh Vanahalli](Past-Talks/020)
