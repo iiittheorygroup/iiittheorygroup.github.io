@@ -20,10 +20,9 @@ Basic Probability Theory
 
 ### Resources
 - [More about the Kruskal Count Magic Trick](https://arxiv.org/abs/math/0110143)
-- [If you want to get more into this I have a few introductory blog posts](https://cathreya.github.io/)
 - [There's also a great survey paper here](https://people.math.gatech.edu/~randall/r-mixing.pdf)
 - [If you want a full fledged textbook](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf)
+- [If you want to get more into this I have a few introductory blog posts](https://cathreya.github.io/)
 
-<!--
-<iframe width="600" height="400" src="https://www.youtube.com/embed/kPeux0ptZ7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+<iframe width="600" height="400" src="https://www.youtube.com/embed/tdMlVmSNjjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
