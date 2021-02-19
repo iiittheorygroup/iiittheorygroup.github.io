@@ -17,7 +17,7 @@ Next Talk
 <details><summary>27-02-2021 <b>|</b> (#024) <b>Certification of Local Quantum Systems</b> - <a href="https://sites.google.com/view/maharshiray">Maharshi Ray</a></summary><p>
 -->
 
-# (#024) **Certification of Local Quantum Systems** - [Maharshi Ray](https://sites.google.com/view/maharshiray)
+## (#024) **Certification of Local Quantum Systems** - [Maharshi Ray](https://sites.google.com/view/maharshiray)
 
 **Date/Time**: [27-02-2021, 1930 - 2100 IST](https://www.google.com/calendar/event?eid=a2NmZ3FpYTZlZ2xlc2Fra2Y2YnN1N29iMmZfMjAyMTAyMjdUMTQwMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
 
