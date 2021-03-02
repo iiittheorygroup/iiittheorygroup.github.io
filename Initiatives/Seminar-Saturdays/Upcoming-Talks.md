@@ -17,7 +17,7 @@ Next Talk
 Future Talks
 ==============
 
-<details><summary>13-03-2021 <b>|</b> (#025) <b>Unambiguous DNFs from Hex</b> - <a href="http://sidjain.me/">Siddhartha Jain</a></summary><p>
+<details><summary>13-03-2021 <b>|</b> (#025) <b>Unambiguous DNFs from Hex</b> - <a href="http://sidjain.me/">Siddhartha Jain</a></summary><div class="custom-spoiler"><p>
 
 **Date and Time**: [13-03-2021, 19:30 - 21:00 IST](https://calendar.google.com/calendar/event?eid=a2NmZ3FpYTZlZ2xlc2Fra2Y2YnN1N29iMmZfMjAyMTAzMTNUMTQwMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
 
@@ -30,10 +30,10 @@ TBA
 ### Resources
 TBA
 
-</p></details>
+</p></div></details>
 
 <!--
-<details><summary>[[DATE]] <b>|</b> (#[[IDX]]) <b>[[TITLE]]</b> - <a href="[[HOMEPAGE]]">[[AUTHOR]]</a></summary><p>
+<details><summary>[[DATE]] <b>|</b> (#[[IDX]]) <b>[[TITLE]]</b> - <a href="[[HOMEPAGE]]">[[AUTHOR]]</a></summary><div class="custom-spoiler"><p>
 
 **Date & Time**: [INFO](<calendar_link>)
 
@@ -43,5 +43,5 @@ TBA
 
 ### Resources
 
-</p></details>
+</p></div></details>
 -->
