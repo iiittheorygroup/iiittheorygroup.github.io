@@ -13,6 +13,7 @@ Past Talks
 Spring 2021 (Jan - Apr)
 -----------
 
+- [(#025)  **Unambiguous DNFs from Hex** - Siddhartha Jain](Past-Talks/025)
 - [(#024)  **Certification of Local Quantum Systems** - Maharshi Ray](Past-Talks/024)
 - [(#023) **Markov Chain Monte Carlo (MCMC)** - Athreya C](Past-Talks/023)
 - [(#022) **PCPs and Hardness of Approximation** - Aditya Morolia](Past-Talks/022)
