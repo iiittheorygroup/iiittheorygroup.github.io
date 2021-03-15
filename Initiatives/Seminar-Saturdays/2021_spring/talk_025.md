@@ -23,4 +23,6 @@ Some exposure to basic complexity theory/theory of computation
 - [Unambiguous DNFs from Hex](https://arxiv.org/abs/2102.08348)
 - [A recent improvement that acheives quadratic separation](https://arxiv.org/abs/2103.05593)
 
+[Talk whiteboard](./slides_025.pdf)
+
 **Note:** The speaker requested the talk to not be recorded.
