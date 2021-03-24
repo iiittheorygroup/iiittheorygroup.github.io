@@ -15,7 +15,7 @@ Next Talk
 
 <details><summary>March 27 2021<b>|</b> (#026) <b>ZKPs - to know and not to know</b> - <a href="https://anurudhp.github.io/">Anurudh Peduri</a></summary><div class="custom-spoiler"><p>
 
-**Date and Time**: [10-04-2021, 19:30 - 21:00 IST](https://www.google.com/calendar/event?eid=a2NmZ3FpYTZlZ2xlc2Fra2Y2YnN1N29iMmZfMjAyMTA0MTBUMTQwMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
+**Date and Time**: [27-03-2021, 19:30 - 21:00 IST](https://www.google.com/calendar/event?eid=a2NmZ3FpYTZlZ2xlc2Fra2Y2YnN1N29iMmZfMjAyMTAzMjdUMTQwMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
 
 ### Abstract
 A Zero-Knowledge Proof (ZKP) is a protocol in which a prover proves something to a verifier without revealing any extra "information". For instance, this is very useful in cryptography - to have authentication with privacy. You want to prove that it is indeed you, without revealing your own identity.
