@@ -30,6 +30,7 @@ P.s. The prerequisites are very simple, and I'll briefly explain them at the ver
 
 ### Resources
 [Arora, Barak - Computational Complexity:  A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - Chapter 8
+</p></div></details>
 
 
 Future Talks
