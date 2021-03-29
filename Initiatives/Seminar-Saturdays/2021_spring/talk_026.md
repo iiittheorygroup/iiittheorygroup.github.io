@@ -7,7 +7,7 @@ nav_exclude: true
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks/026
 ---
 
-(#025) **ZKPs - to know and not to know** - [Anurudh Peduri](https://anurudhp.github.io/)
+(#026) **ZKPs - to know and not to know** - [Anurudh Peduri](https://anurudhp.github.io/)
 ------------
 
 **Date and Time**: [27-03-2021, 19:30 - 21:00 IST](https://www.google.com/calendar/event?eid=a2NmZ3FpYTZlZ2xlc2Fra2Y2YnN1N29iMmZfMjAyMTAzMjdUMTQwMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
