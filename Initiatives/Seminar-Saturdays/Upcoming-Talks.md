@@ -21,10 +21,12 @@ Given a Boolean function f : {-1,1}^n -> {-1,1}, define the Fourier distribution
 We will discuss the significance of the conjecture, present the current known bounds on Fourier entropy and also discuss its relationship with Mansour's conjecture. 
 
 ### Prerequisites
-TBA
+There is not much of prerequisites, since I plan to introduce things needed from the basics. 
 
 ### Resources
-TBA
+1) Survey on Decision trees by Buhrman and de Wolf (only definitions and examples until page 11; skip randomized & quantum parts).
+2) Survey on Fourier analysis by de Wolf (only until page 3; just the preliminaries part).
+
 
 </p></div></details>
 
