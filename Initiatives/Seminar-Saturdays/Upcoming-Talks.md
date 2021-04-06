@@ -12,12 +12,13 @@ Current Season: Spring 2021
 
 Next Talk
 =========
-<details><summary>April 10 2021<b>|</b> (#027) <b>TBA</b> - <a href="https://nitinsau.github.io/">Dr. Nitin Saurabh</a></summary><div class="custom-spoiler"><p>
+<details><summary>April 10 2021<b>|</b> (#027) <b>On Fourier-entropy Influence Conjecture</b> - <a href="https://nitinsau.github.io/">Dr. Nitin Saurabh</a></summary><div class="custom-spoiler"><p>
 
 **Date and Time**: [10-04-2021, 19:30 - 21:00 IST](https://www.google.com/calendar/event?eid=a2NmZ3FpYTZlZ2xlc2Fra2Y2YnN1N29iMmZfMjAyMTA0MTBUMTQwMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
 
 ### Abstract
-TBA
+Given a Boolean function f : {-1,1}^n -> {-1,1}, define the Fourier distribution to be the distribution on subsets of [n], where each subset S of [n] is sampled with probability equaling square of the Fourier coefficient associated with S, \hat{f}(S)^2. The Fourier Entropy-Influence (FEI) conjecture of Friedgut and Kalai (1996) seeks to relate two fundamental measures associated with the Fourier distribution: does there exist a universal constant C>0 such that H(f) <= C Inf(f), where H(f) is the Shannon entropy of the Fourier distribution of f and Inf(f) is the total influence of f.
+We will discuss the significance of the conjecture, present the current known bounds on Fourier entropy and also discuss its relationship with Mansour's conjecture. 
 
 ### Prerequisites
 TBA
