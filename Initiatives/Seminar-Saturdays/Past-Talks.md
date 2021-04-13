@@ -13,6 +13,7 @@ Past Talks
 Spring 2021 (Jan - Apr)
 -----------
 
+- [(#027)  **On Fourier-entropy Influence Conjecture** - Dr. Nitin Saurabh](Past-Talks/027)
 - [(#026)  **ZKPs - to know and not to know** - Anurudh Peduri](Past-Talks/026)
 - [(#025)  **Unambiguous DNFs from Hex** - Siddhartha Jain](Past-Talks/025)
 - [(#024)  **Certification of Local Quantum Systems** - Maharshi Ray](Past-Talks/024)
