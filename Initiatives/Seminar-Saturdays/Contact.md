@@ -13,7 +13,7 @@ Contact Us
 Current Coordinators
 --------------------
 
-- [Anurudh Peduri](https://anurudhp.github.io/) - Admin
+- [Athreya C](https://cathreya.github.io/) - Admin
 - Kishore Kumar - Volunteer
 - Rishav Kundu - Volunteer
 
@@ -21,4 +21,4 @@ Past Members
 ------------
 
 - [Aditya Morolia](https://thecharmingsociopath.github.io/) - Started the initiative
-
+- [Anurudh Peduri](https://anurudhp.github.io/) - Admin
