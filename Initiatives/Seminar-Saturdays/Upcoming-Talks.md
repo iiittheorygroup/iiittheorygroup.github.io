@@ -13,6 +13,22 @@ Current Season: Spring 2021
 Next Talk
 =========
 
+<details><summary>May 22 2021<b>|</b> (#029) <b>TBA</b> - <a href="salman.ahmed@research.iiit.ac.in"> Salman Ahmed </a></summary><div class="custom-spoiler"><p>
+
+**Date and Time**: [08-05-2021, 20:00 - 21:00 IST]()
+
+### Abstract
+TBA
+
+### Prerequisites
+TBA
+
+### Resources
+TBA
+
+</p></div></details>
+
+
 
 Future Talks
 ==============
