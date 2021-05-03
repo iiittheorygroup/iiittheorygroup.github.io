@@ -7,7 +7,7 @@ nav_exclude: true
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks/028
 ---
 
-(#027) **A Multi-Arm Bandit Approach To Subset Selection Under Constraints** - [Ayush Deva](https://www.linkedin.com/in/ayush-deva-310162111/)
+(#028) **A Multi-Arm Bandit Approach To Subset Selection Under Constraints** - [Ayush Deva](https://www.linkedin.com/in/ayush-deva-310162111/)
 ------------
 
 **Date and Time**: [24-04-2021, 19:30 - 21:00 IST](https://calendar.google.com/calendar/u/0/r/agenda/2021/4/24?eid=a2NmZ3FpYTZlZ2xlc2Fra2Y2YnN1N29iMmZfMjAyMTA0MjRUMTQwMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)
