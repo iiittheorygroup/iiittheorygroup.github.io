@@ -24,7 +24,7 @@ Even if you don't know these, the hardware points will be made simple enogh for 
 ### Resources
 https://dl.acm.org/doi/10.1145/2893356
 
-<!-- [Talk slides]() -->
+[Talk slides](./slides_029.pdf)
 
 <!-- <iframe width="600" height="400" src="https://www.youtube.com/watch?v=yQnGdkNhJQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
