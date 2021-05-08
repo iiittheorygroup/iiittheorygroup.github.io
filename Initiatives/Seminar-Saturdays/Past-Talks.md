@@ -13,6 +13,7 @@ Past Talks
 Spring 2021 (Jan - Apr)
 -----------
 
+- [(#029) **Approximate Computing** - Salman Ahmed](Past-Talks/029)
 - [(#028) **A Multi-Arm Bandit Approach To Subset Selection Under Constraints** - Ayush Deva](Past-Talks/028)
 - [(#027)  **On Fourier-entropy Influence Conjecture** - Dr. Nitin Saurabh](Past-Talks/027)
 - [(#026)  **ZKPs - to know and not to know** - Anurudh Peduri](Past-Talks/026)
