@@ -12,7 +12,7 @@ Current Season: Spring 2021
 
 Next Talk
 =========
-<details><summary>May 22 2021<b>|</b> (#030) <b>TBA</b> - <a href="https://sites.google.com/view/shchakra"> Dr. Shantanav Chakraborty</a></summary><div class="custom-spoiler"><p>
+<details><summary>May 22 2021<b>|</b> (#030) <b>How fast do quantum walks mix?</b> - <a href="https://sites.google.com/view/shchakra"> Dr. Shantanav Chakraborty</a></summary><div class="custom-spoiler"><p>
 
 **Date and Time**: [22-05-2021, 19:30 - 21:00 IST]()
 
