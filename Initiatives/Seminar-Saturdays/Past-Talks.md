@@ -12,7 +12,7 @@ Past Talks
 
 Spring 2021 (Jan - Apr)
 -----------
-
+- [(#030) **How fast do quantum walks mix?** - Dr. Shantanav Chakraborty](Past-Talks/030)
 - [(#029) **Approximate Computing** - Salman Ahmed](Past-Talks/029)
 - [(#028) **A Multi-Arm Bandit Approach To Subset Selection Under Constraints** - Ayush Deva](Past-Talks/028)
 - [(#027)  **On Fourier-entropy Influence Conjecture** - Dr. Nitin Saurabh](Past-Talks/027)
