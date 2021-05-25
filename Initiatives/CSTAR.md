@@ -12,7 +12,7 @@ nav_order: 5
 CSTAR Discussions
 =================
 
-Hello folks, we have a discussion group for the _Center for Security, Theory and Algorithms Research_. Lab students meet up every week to discuss and share their current research ideas and work with the rest of the group. Everyone is free to join and learn more about the work that goes on in our lab.
+Hello folks, we have a discussion group for the _Center for Security, Theory and Algorithms Research_. Lab students meet up every week to discuss and share their current research ideas and work with the rest of the group. Everyone is free to join and learn more about the work that goes on in our lab. This is a purely student-run initiative, to bring the CSTAR research community closer.
 
 Who does this benefit?
 -----------------
@@ -51,16 +51,6 @@ During the 1 hour session, to keep discussions productive, we will stick to our 
 
 People
 ------
-
-### Professors
-- Prof. Kishore Kothapalli
-- Prof. Ashok Das
-- Prof. Girish Varma
-- Prof. Kannan Srinathan
-- Prof. Indranil Chakrabarty
-- Prof. Samyadeb Battacharya
-- Prof. Shantanav Chakraborty
-- Prof. Pawan Kumar
 
 ### Current Students
 
