@@ -62,6 +62,8 @@ People
 | Suryansh Srivastava | Quantum Algorithms and Information | Prof. Indranil Chakrabarty | UG2K17 CND | |
 | Arpan Dasgupta | ML Optimization | Prof. Pawan Kumar | UG2K18 CSE | |
 | Abhyudit Mohla | | Prof. Indranil Chakrabarty | UG2K18 CSD | |
+| Arjun P | | Prof. Kannan Srinathan | UG2K15 CSD | |
+| Siddharth Bhat | | Prof. Kannan Srinathan | LE2K16 CSD | |
 
 
 ### Past Students
