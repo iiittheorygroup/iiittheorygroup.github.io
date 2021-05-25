@@ -59,14 +59,20 @@ People
 - Prof. Kannan Srinathan
 - Prof. Indranil Chakrabarty
 - Prof. Samyadeb Battacharya
-- Prof. Shantanav Chakrabarty
+- Prof. Shantanav Chakraborty
+- Prof. Pawan Kumar
 
 ### Current Students
 
 | Student                 | Topic/Field        | Advisor                         | Batch          | Co-Advisor (if any)            |
 |:------------------------|:-------------------|:--------------------------------|:---------------|:-------------------------------|
 | [Anurudh Peduri](https://anurudhp.github.io/) | Compilers | Prof. Kannan Srinathan | UG2K15 CSD     | |
-| [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakrabarty |
+| [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
+| Mahathi Vempati | Quantum Information | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
+| Suryansh Srivastava | Quantum Algorithms and Information | Prof. Indranil Chakrabarty | UG2K17 CND | |
+| Arpan Dasgupta | ML Optimization | Prof. Pawan Kumar | UG2K18 CSE | |
+| Abhyudit Mohla | | Prof. Indranil Chakrabarty | UG2K18 CSD | |
+
 
 ### Past Students
 
