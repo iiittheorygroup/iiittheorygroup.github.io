@@ -67,6 +67,6 @@ People
 |:------------------------|:-------------------|:--------------------------------|:---------------|:-------------------------------|
 | [Anurudh Peduri](https://anurudhp.github.io/) | Compilers | Prof. Kannan Srinathan | UG2K15 CSD     | |
 | [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakrabarty |
-
+| Suryansh Srivastava | Quantum Algorithms and Quantum Information Theory| Prof. Indranil Chakrabarty | UG2K17 CND | |
 ### Past Students
 
