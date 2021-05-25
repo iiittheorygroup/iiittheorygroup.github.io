@@ -66,7 +66,7 @@ People
 
 | Student                 | Topic/Field        | Advisor                         | Batch          | Co-Advisor (if any)            |
 |:------------------------|:-------------------|:--------------------------------|:---------------|:-------------------------------|
-| [Anurudh Peduri](https://anurudhp.github.io/) | Compilers | Prof. Kannan Srinathan | UG2K15 CSD     | |
+| [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilers | Prof. Kannan Srinathan | UG2K15 CSD     | |
 | [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
 | Mahathi Vempati | Quantum Information | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
 | Suryansh Srivastava | Quantum Algorithms and Information | Prof. Indranil Chakrabarty | UG2K17 CND | |
