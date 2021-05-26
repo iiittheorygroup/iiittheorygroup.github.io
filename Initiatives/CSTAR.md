@@ -58,11 +58,16 @@ People
 |:------------------------|:-------------------|:--------------------------------|:---------------|:-------------------------------|
 | [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilers | Prof. Kannan Srinathan | UG2K15 CSD     | |
 | Arjun P | | Prof. Kannan Srinathan | UG2K15 CSD | |
-| Siddharth Bhat | Mathematical Models for Word Embeddings, Formal Verification | Prof. Kannan Srinathan | LE2K16 CSD | |
+| [Siddharth Bhat](https://bollu.github.io/) | Mathematical Models for Word Embeddings, Formal Verification | Prof. Kannan Srinathan | LE2K16 CSD | |
 | Mahathi Vempati | Quantum Information | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
 | [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
 | Suryansh Srivastava | Quantum Algorithms and Information | Prof. Indranil Chakrabarty | UG2K17 CND | |
 | Abhyudit Mohla | | Prof. Indranil Chakrabarty | UG2K18 CSD | |
+| [Alapan Chaudhuri](https://banrovegrie.github.io/) | Quantum Information | Prof. Indranil Chakrabarty | UG2K19 CSD | |
+| Pahulpreet Singh | Quantum Information | Prof. Indranil Chakrabarty | UG2K19 CND | |
+| Shreyas Pradhan | Quantum Thermodynamics | Prof: Samyadeb Bhattacharya | UG2K19 CND | |
+| Rutvij Menavlikar | Quantum Computing | Prof. Shantanav Chakraborty | UG2K19 CSD | |
+| [Athreya C](https://cathreya.github.io/) | MCMC and Efficient Graph Centrality Algorithms | | LE2K18 CSD | |
 | Sayantan Jana | Efficient Graph Centrality Algorithms | Prof. Kishore Kothapalli | UG2K17 CSD | |
 | Tanmay Kumar Sinha | Riemannian Optimization | Prof. Pawan Kumar | UG2K17 CSD | |
 | Arpan Dasgupta | ML Optimization | Prof. Pawan Kumar | UG2K18 CSE | |
