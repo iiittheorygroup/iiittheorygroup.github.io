@@ -54,16 +54,18 @@ People
 
 ### Current Students
 
-| Student                 | Topic/Field        | Advisor                         | Batch          | Co-Advisor (if any)            |
+| Student                 | Topic/Field of Research        | Advisor                         | Batch          | Co-Advisor (if any)            |
 |:------------------------|:-------------------|:--------------------------------|:---------------|:-------------------------------|
 | [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilers | Prof. Kannan Srinathan | UG2K15 CSD     | |
-| [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
-| Mahathi Vempati | Quantum Information | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
-| Suryansh Srivastava | Quantum Algorithms and Information | Prof. Indranil Chakrabarty | UG2K17 CND | |
-| Arpan Dasgupta | ML Optimization | Prof. Pawan Kumar | UG2K18 CSE | |
-| Abhyudit Mohla | | Prof. Indranil Chakrabarty | UG2K18 CSD | |
 | Arjun P | | Prof. Kannan Srinathan | UG2K15 CSD | |
-| Siddharth Bhat | | Prof. Kannan Srinathan | LE2K16 CSD | |
+| Siddharth Bhat | Mathematical Models for Word Embeddings, Formal Verification | Prof. Kannan Srinathan | LE2K16 CSD | |
+| Mahathi Vempati | Quantum Information | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
+| [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
+| Suryansh Srivastava | Quantum Algorithms and Information | Prof. Indranil Chakrabarty | UG2K17 CND | |
+| Abhyudit Mohla | | Prof. Indranil Chakrabarty | UG2K18 CSD | |
+| Sayantan Jana | Efficient Graph Centrality Algorithms | Prof. Kishore Kothapalli | UG2K17 CSD | |
+| Tanmay Kumar Sinha | Riemannian Optimization | Prof. Pawan Kumar | UG2K17 CSD | |
+| Arpan Dasgupta | ML Optimization | Prof. Pawan Kumar | UG2K18 CSE | |
 
 
 ### Past Students
