@@ -52,6 +52,8 @@ During the 1 hour session, to keep discussions productive, we will stick to our 
 People
 ------
 
+_Last Updated: 27-05-2021_
+
 ### Current Students
 
 | Student                 | Topic/Field of Research        | Advisor                         | Batch          | Co-Advisor (if any)            |
@@ -75,3 +77,8 @@ People
 
 ### Past Students
 
+
+Disclaimer
+----------
+
+The initiative is completely unoffical and student-run. The information is collected by students of the group, and is likely to have errors/inaccuracies. Do not use them as an absolute source of information. If you spot any mistakes, please send us a PR with the fix.
