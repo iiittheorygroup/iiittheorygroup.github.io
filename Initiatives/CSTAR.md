@@ -62,7 +62,7 @@ _Last Updated: 27-05-2021_
 
 | Student                 | Topic/Field of Research        | Lab | Advisor                         | Batch          | Co-Advisor (if any)            |
 |:------------------------|:-------------------------------|:----|:--------------------------------|:---------------|:-------------------------------|
-| [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilers | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD     | |
+| [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilation | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD     | |
 | Arjun P | | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD | |
 | [Siddharth Bhat](https://bollu.github.io/) | Mathematical Models for Word Embeddings, Formal Verification | CSTAR | Prof. Kannan Srinathan | LE2K16 CSD | |
 | Raj Maheshwari | | CSTAR | Prof. Kannan Srinathan | UG2K19 CSE | |
