@@ -73,6 +73,8 @@ _Last Updated: 27-05-2021_
 | Sayantan Jana | Efficient Graph Centrality Algorithms | Prof. Kishore Kothapalli | UG2K17 CSD | |
 | Tanmay Kumar Sinha | Riemannian Optimization | Prof. Pawan Kumar | UG2K17 CSD | |
 | Arpan Dasgupta | ML Optimization | Prof. Pawan Kumar | UG2K18 CSE | |
+| Raj Maheshwari | | Prof. Kannan Srinathan | UG2K19 CSE | |
+| [Animesh Sinha](http://researchweb.iiit.ac.in/~animesh.sinha) | RL and Tree Searches in NISQ Quantum Circuit design | Prof. Harjinder Singh | UG2K18 CND | |
 
 
 ### Past Students
