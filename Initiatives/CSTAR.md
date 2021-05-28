@@ -60,25 +60,25 @@ _Last Updated: 27-05-2021_
 
 ### Current Students
 
-| Student                 | Topic/Field of Research        | Advisor                         | Batch          | Co-Advisor (if any)            |
-|:------------------------|:-------------------|:--------------------------------|:---------------|:-------------------------------|
-| [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilers | Prof. Kannan Srinathan | UG2K15 CSD     | |
-| Arjun P | | Prof. Kannan Srinathan | UG2K15 CSD | |
-| [Siddharth Bhat](https://bollu.github.io/) | Mathematical Models for Word Embeddings, Formal Verification | Prof. Kannan Srinathan | LE2K16 CSD | |
-| Mahathi Vempati | Quantum Information | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
-| [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
-| Suryansh Srivastava | Quantum Algorithms and Information | Prof. Indranil Chakrabarty | UG2K17 CND | |
-| Abhyudit Mohla | | Prof. Indranil Chakrabarty | UG2K18 CSD | |
-| [Alapan Chaudhuri](https://banrovegrie.github.io/) | Quantum Information | Prof. Indranil Chakrabarty | UG2K19 CSD | |
-| Pahulpreet Singh | Quantum Information | Prof. Indranil Chakrabarty | UG2K19 CND | |
-| Shreyas Pradhan | Quantum Thermodynamics | Prof: Samyadeb Bhattacharya | UG2K19 CND | |
-| Rutvij Menavlikar | Quantum Computing | Prof. Shantanav Chakraborty | UG2K19 CSD | |
-| [Athreya C](https://cathreya.github.io/) | MCMC and Efficient Graph Centrality Algorithms | | LE2K18 CSD | |
-| Sayantan Jana | Efficient Graph Centrality Algorithms | Prof. Kishore Kothapalli | UG2K17 CSD | |
-| Tanmay Kumar Sinha | Riemannian Optimization | Prof. Pawan Kumar | UG2K17 CSD | |
-| Arpan Dasgupta | ML Optimization | Prof. Pawan Kumar | UG2K18 CSE | |
-| Raj Maheshwari | | Prof. Kannan Srinathan | UG2K19 CSE | |
-| [Animesh Sinha](http://researchweb.iiit.ac.in/~animesh.sinha) | RL and Tree Searches in NISQ Quantum Circuit design | Prof. Harjinder Singh | UG2K18 CND | |
+| Student                 | Topic/Field of Research        | Lab | Advisor                         | Batch          | Co-Advisor (if any)            |
+|:------------------------|:-------------------------------|:----|:--------------------------------|:---------------|:-------------------------------|
+| [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilers | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD     | |
+| Arjun P | | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD | |
+| [Siddharth Bhat](https://bollu.github.io/) | Mathematical Models for Word Embeddings, Formal Verification | CSTAR | Prof. Kannan Srinathan | LE2K16 CSD | |
+| Raj Maheshwari | | CSTAR | Prof. Kannan Srinathan | UG2K19 CSE | |
+| Mahathi Vempati | Quantum Information | CSTAR | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
+| [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | CSTAR | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
+| Suryansh Srivastava | Quantum Algorithms and Information | CSTAR | Prof. Indranil Chakrabarty | UG2K17 CND | |
+| Abhyudit Mohla | | CSTAR | Prof. Indranil Chakrabarty | UG2K18 CSD | |
+| [Alapan Chaudhuri](https://banrovegrie.github.io/) | Quantum Information | CSTAR | Prof. Indranil Chakrabarty | UG2K19 CSD | |
+| Pahulpreet Singh | Quantum Information | CSTAR | Prof. Indranil Chakrabarty | UG2K19 CND | |
+| Shreyas Pradhan | Quantum Thermodynamics | CSTAR | Prof: Samyadeb Bhattacharya | UG2K19 CND | |
+| Rutvij Menavlikar | Quantum Computing | CSTAR | Prof. Shantanav Chakraborty | UG2K19 CSD | |
+| [Athreya C](https://cathreya.github.io/) | MCMC and Efficient Graph Centrality Algorithms | CSTAR | | LE2K18 CSD | |
+| Sayantan Jana | Efficient Graph Centrality Algorithms | CSTAR | Prof. Kishore Kothapalli | UG2K17 CSD | |
+| Tanmay Kumar Sinha | Riemannian Optimization | CSTAR | Prof. Pawan Kumar | UG2K17 CSD | |
+| Arpan Dasgupta | ML Optimization | CSTAR | Prof. Pawan Kumar | UG2K18 CSE | |
+| [Animesh Sinha](http://researchweb.iiit.ac.in/~animesh.sinha) | RL and Tree Searches in NISQ Quantum Circuit design | CCNSB | Prof. Harjinder Singh | UG2K18 CND | |
 
 
 ### Past Students
