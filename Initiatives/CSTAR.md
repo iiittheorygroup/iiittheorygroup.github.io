@@ -56,7 +56,7 @@ During the 1 hour session, to keep discussions productive, we will stick to our 
 People
 ------
 
-_Last Updated: 27-05-2021_
+_Last Updated: 29-05-2021_
 
 ### Current Students
 
