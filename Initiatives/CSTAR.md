@@ -62,9 +62,9 @@ _Last Updated: 29-05-2021_
 
 | Student                 | Topic/Field of Research        | Lab | Advisor                         | Batch          | Co-Advisor (if any)            |
 |:------------------------|:-------------------------------|:----|:--------------------------------|:---------------|:-------------------------------|
-| [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilation | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD     | |
+| [Anurudh Peduri](https://anurudhp.github.io/) | Quantum Compilation | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD     | Prof. Tobias Grosser |
 | Arjun P | | CSTAR | Prof. Kannan Srinathan | UG2K15 CSD | |
-| [Siddharth Bhat](https://bollu.github.io/) | Mathematical Models for Word Embeddings, Formal Verification | CSTAR | Prof. Kannan Srinathan | LE2K16 CSD | |
+| [Siddharth Bhat](https://bollu.github.io/) | Mathematical Models for Word Embeddings, Formal Verification | CSTAR | Prof. Kannan Srinathan | LE2K16 CSD | Prof. Manish Shrivastava|
 | Raj Maheshwari | | CSTAR | Prof. Kannan Srinathan | UG2K19 CSE | |
 | Mahathi Vempati | Quantum Information | CSTAR | Prof. Indranil Chakrabarty | UG2K16 CND | Prof. Nirman Ganguly |
 | [Aditya Morolia](https://thecharmingsociopath.github.io/) | Quantum Algorithms | CSTAR | Prof. Indranil Chakrabarty | UG2K17 CND | Prof. Shantanav Chakraborty |
