@@ -1,5 +1,7 @@
 title: "IIIT Theory Group"
 markdown: CommonMarkGhPages
+commonmark:
+  extensions: ["table"]
 remote_theme: pmarsceill/just-the-docs
 
 

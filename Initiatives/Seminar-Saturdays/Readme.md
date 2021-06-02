@@ -6,6 +6,7 @@ commit_tag: "[SS]"
 has_children: true
 has_toc: false
 permalink: /Initiatives/Seminar-Saturdays
+nav_order: 1
 ---
 
 Seminar Saturdays
