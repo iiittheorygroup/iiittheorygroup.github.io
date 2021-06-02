@@ -10,7 +10,7 @@ permalink: /Initiatives/Seminar-Saturdays/Past-Talks
 Past Talks
 ==========
 
-Spring 2021 (Jan - Apr)
+Spring 2021 (Jan - May)
 -----------
 - [(#030) **How fast do quantum walks mix?** - Dr. Shantanav Chakraborty](Past-Talks/030)
 - [(#029) **Approximate Computing** - Salman Ahmed](Past-Talks/029)
