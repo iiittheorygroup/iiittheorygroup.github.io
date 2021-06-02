@@ -56,7 +56,7 @@ During the 1 hour session, to keep discussions productive, we will stick to our 
 People
 ------
 
-_Last Updated: 29-05-2021_
+_Last Updated: 02-06-2021_
 
 ### Current Students
 
@@ -75,6 +75,7 @@ _Last Updated: 29-05-2021_
 | Shreyas Pradhan | Quantum Thermodynamics | CSTAR | Prof: Samyadeb Bhattacharya | UG2K19 CND | |
 | Rutvij Menavlikar | Quantum Computing | CSTAR | Prof. Shantanav Chakraborty | UG2K19 CSD | |
 | [Athreya C](https://cathreya.github.io/) | MCMC and Efficient Graph Centrality Algorithms | CSTAR | | LE2K18 CSD | |
+| Shantanu Das | MCMC | CSTAR | Prof. Girish Varma | UG2K17 CSD | |
 | Sayantan Jana | Efficient Graph Centrality Algorithms | CSTAR | Prof. Kishore Kothapalli | UG2K17 CSD | |
 | Tanmay Kumar Sinha | Riemannian Optimization | CSTAR | Prof. Pawan Kumar | UG2K17 CSD | |
 | Arpan Dasgupta | ML Optimization | CSTAR | Prof. Pawan Kumar | UG2K18 CSE | |
