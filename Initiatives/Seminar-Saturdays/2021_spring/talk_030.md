@@ -31,5 +31,5 @@ arXiv: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.050501
 
 [Talk slides](./slides_030.pdf)
 
-<iframe width="600" height="400" src="https://youtu.be/b2zyI0ywNlc
+<iframe width="600" height="400" src="https://youtube.com/embed/b2zyI0ywNlc
 " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

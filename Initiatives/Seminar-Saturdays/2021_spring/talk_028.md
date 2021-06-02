@@ -25,6 +25,6 @@ https://arxiv.org/abs/2102.04824
 
 [Talk slides](./slides_028.pdf)
 
-<iframe width="600" height="400" src="https://www.youtube.com/watch?v=yQnGdkNhJQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/yQnGdkNhJQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
