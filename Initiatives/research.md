@@ -5,7 +5,7 @@ parent: Initiatives
 commit_tag: "[cstar] [theory-research] [research]"
 has_children: false
 has_toc: false
-permalink: /Initiatives/CSTAR
+permalink: /Initiatives/Research
 nav_order: 5
 ---
 
