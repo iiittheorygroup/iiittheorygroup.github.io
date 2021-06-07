@@ -44,7 +44,7 @@ For new students/non-research folks:
 The Plan
 --------
 
-[**Weekly lab meetings - Saturdays 3 PM - 4 PM IST**](https://calendar.google.com/calendar/event?eid=MGE1MmVlaTV2MGJrNWI5cjNuanZwajcxaW9fMjAyMTA2MDVUMDkzMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)  
+[**Weekly lab meetings - Tuesdays 9 PM - 10 PM IST**](https://calendar.google.com/calendar/event?eid=MGE1MmVlaTV2MGJrNWI5cjNuanZwajcxaW9fMjAyMTA2MDVUMDkzMDAwWiB2bmw5c2RxN29vZmlwaWJobzEzMnIyZTAyNEBn&ctz=Asia/Kolkata)  
 If you would like to get a calendar invite, please join our [google group](https://groups.google.com/g/iiittheorygroup)
 
 Students meet up every week to discuss their work, recent updates, new opportunities, collaboration offers etc.
