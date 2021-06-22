@@ -7,7 +7,7 @@ nav_exclude: true
 permalink: /Initiatives/Seminar-Saturdays/Past-Talks/003
 ---
 
-(#003) **Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT** - [Arjun P](https://github.com/Superty)
+(#003) **Randomized Algorithms, the Probabilistic Method and Derandomization through the lens of 3SAT** - [Arjun P](https://arxiv.org/search/math?searchtype=author&query=Pitchanathan%2C+A)
 -------------------
 
 **Date & Time:** 05-09-2020, 21:00 IST
