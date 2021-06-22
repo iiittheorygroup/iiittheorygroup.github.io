@@ -32,17 +32,4 @@ After the talk, we usually collect the following and make them available publicl
 - Talk slides and resources (code etc.)
 - Talk recording (will be done by us, if consented)
 
-Upcoming free slots
--------------------
-
-For quick reference:
-
-**March 2021**
-- 13-03-2021
-- 27-03-2021
-
-**April 2021**
-- 10-04-2021
-- 24-04-2021
-
-(For all the slots, please check the calendar events with the tag `[Seminar Saturdays]`)
+Free slots: Please check the calendar events with the tag `[Seminar Saturdays]`.
