@@ -9,11 +9,12 @@ Our Team
 ========
 
 - [Bharathi Ramana Joshi](https://bharathi.xyz/) - Admin (2020-)
+- [Kunwar Shaanjeet Singh Grover](https://groverkss.github.io/) - Admin (2020-)
 - [Alapan Chaudari](https://banrovegrie.github.io/) - Moderator (2020-)
 - [Aman Rojjha](https://github.com/SarcasticNastik) - Moderator (2020-)
 - [Athreya C](https://cathreya.github.io/) - Moderator (2020-)
-- [Kunwar Shaanjeet Singh Grover](https://groverkss.github.io/) - Moderator (2020-)
 - [Shashwat Goel](https://github.com/shash42) - Moderator (2020-)
+- [Kishore Kumar]() - Moderator (2021-)
 
 Past Admins
 ===========
@@ -23,4 +24,3 @@ Past Admins
 - [Arjun P](https://github.com/Superty) - Admin (2018)
 - [Nitin John Raj](https://github.com/njayinthehouse) - Admin (2018)
 - [Animesh Sinha](https://researchweb.iiit.ac.in/~animesh.sinha/home) - Admin (2020)
-
