@@ -9,8 +9,10 @@ permalink: /Initiatives/Seminar-Saturdays
 nav_order: 1
 ---
 
-Seminar Saturdays
+Seminar Saturdays [Archived]
 =================
+
+This event has been archived and is no longer active.
 
 An initiative where students present something of their choice every alternate week. It could be a research paper/topic/field/concept etc. A short 30-60 minute presentation, followed by an audience interaction.
 
@@ -23,4 +25,4 @@ Vision
 
 The seminars were initially started as a way to share ideas and learn theory together. We hosted talks on various topics given by current students. With time, we shifted the focus to research seminars. Research students in different fields would come and talk about their line of work, open problems and how it is in general.
 
-We are looking for active researchers (both current students and alumni) to come and give talks, and share their knowledge and experience with young aspiring researchers. If you are interested or know someone who is, please [hit us up](Seminar-Saturdays/Give-A-Talk)!
+We are looking for active researchers (both current students and alumni) to come and give talks, and share their knowledge and experience with young aspiring researchers. While this event has been archived, if you are interested or know someone who is interested in giving a talk, please contact the [our team](Team)
