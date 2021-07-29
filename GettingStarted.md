@@ -8,10 +8,8 @@ permalink: /Getting-Started
 Getting Started
 ===============
 If you are new to the server, here are a few things to try out:
-- Introduce yourself in the `#welcome` channel. We will be glad to learn more about you and your interests.
 - Attend our next Theory Thursday session. They are just casual meetups (online/offline) for the members of the group. People usually talk about all sorts of things, and they are a ton of fun.
 - Join a live chat VC and just hang out with others. Just for fun. You can do work together, or just talk about life.
-- Try out the `#problem-of-the-week` and discuss it with others.
 - Check out our other initatives down in the *Initiatives* category.
 - If something catches your interest, you can always discuss it in `#random-discussions`. You can also bring up any topic you have in mind.
 - Check our our amazing memes in `#memes-and-jokes`. Feel free to post there too xD
