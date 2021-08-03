@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Seminar Saturdays
+parent: Seminar Saturdays Talks
 title: "#021 (Spring 2021)"
 grand_parent: Initiatives
 nav_exclude: true

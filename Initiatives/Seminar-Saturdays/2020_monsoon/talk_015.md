@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Seminar Saturdays
+parent: Seminar Saturdays Talks
 title: "#015 (Monsoon 2020)"
 grand_parent: Initiatives
 nav_exclude: true

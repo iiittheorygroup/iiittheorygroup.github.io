@@ -1,12 +1,11 @@
 ---
 layout: default
 title: "Theory Research"
-parent: Initiatives
 commit_tag: "[cstar] [theory-research] [research]"
 has_children: false
 has_toc: false
 permalink: /Initiatives/Research
-nav_order: 5
+nav_exclude: true
 ---
 
 Theory Research Discussions
