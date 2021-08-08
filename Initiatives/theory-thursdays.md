@@ -15,7 +15,7 @@ We meet alternate Thursday evenings to discuss and share what we've learnt/found
 
 Two volunteers come prepared to teach topics of their choice to kick-off the discussion, an activity affectionately dubbed "Theory Thursday Teaching".
 
-## 19th August 2021 (Tentative)
+## 19/08/2021 (Tentative)
 
 <details>
   <summary>Haskell Lenses</summary>
@@ -30,7 +30,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Speaker: Mayank Goel
 </details>
 
-## 5th August 2021
+## 05/08/2021
 
 <details>
   <summary>Cordic Algorithms & Applications</summary>
@@ -44,7 +44,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Speaker: Abhinav S Menon
 </details>
 
-## 22nd July 2021
+## 22/07/2021
 
 <details>
   <summary>La Tour D'Hanoï</summary>
@@ -58,7 +58,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Speaker: Shirley
 </details>
 
-## 8th July 2021
+## 08/07/2021
 
 <details>
   <summary>From Bit to Screen - How Rendering Happens</summary>
@@ -73,7 +73,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Resources: https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf
 </details>
 
-## 24th June 2021
+## 24/06/2021
 
 <details>
   <summary>Herbrand logic</summary>
@@ -88,7 +88,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Speaker: Shirley
 </details>
 
-## 10th June 2021
+## 10/06/2021
 
 <details>
   <summary>Zermelo's Theorem (game theory)</summary>
@@ -108,7 +108,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Speaker: Aman Rojjha
 </details>
 
-## 27th May 2021
+## 27/05/2021
 
 <details>
   <summary>Arrow's Impossibility Theorem</summary>
@@ -130,7 +130,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Speaker: Aman Rojjha
 </details>
 
-## 1st April 2021
+## 01/04/2021
 
 <details>
   <summary>Bloom Filters</summary>
@@ -146,7 +146,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Resources: https://chaoxuprime.com/posts/2014-04-11-the-kmp-algorithm-in-haskell.html
 </details>
 
-## 18th March 2021
+## 18/03/2021
 
 <details>
   <summary>Basic coding theory</summary>
@@ -154,7 +154,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Speaker: Athreya C
 </details>
 
-## 4th March 2021
+## 04/03/2021
 
 <details>
   <summary>Introduction to computational humor</summary>
