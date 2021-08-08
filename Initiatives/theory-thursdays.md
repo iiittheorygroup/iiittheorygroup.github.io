@@ -13,14 +13,21 @@ Theory Thursdays
 
 We meet alternate Thursday evenings to discuss and share what we've learnt/found interesting, and also to just hang out. There are no restrictions on what should be discussed, as long as it is related to theory. These usually tend to extend into the next morning!
 
-Two volunteers come prepared to teach topics of their choice to kick-off the discussion. Below are such topics from past Theory Thursdays: 
+Two volunteers come prepared to teach topics of their choice to kick-off the discussion, an activity affectionately dubbed "Theory Thursday Teaching".
 
-### Upcoming Theory Thursday (Tentative)
+## 22/08/2021 (Tentative)
 
-| Date            | Speaker               | Topic                                      |
-| --------------- | --------------------- | ------------------------------------------ |
-| 19th August 2021 | Anurudh Peduri        | Haskell Lenses |
-| 19th August 2021 | Mayank Goel       | Extracting Morality Information from Text  |
+<details>
+  <summary>Haskell Lenses</summary>
+ 
+  + Teacher: Anurudh Peduri
+</details>
+
+<details>
+  <summary>Extracting Morality from Text</summary>
+ 
+  + Teacher: Mayank Goel
+</details>
 
 ### Previous Theory Thursdays
 
