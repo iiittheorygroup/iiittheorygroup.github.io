@@ -11,18 +11,18 @@ nav_order: 99
 Theory Thursdays!
 =================
 
-Hey everyone! We usually meet every other Thursday, to discuss and share what cool stuff we've learnt/come across/found interesting in the last week, and just hang out. There is no restriction on what it should be. Everyone is free to share (and teach) anything and whatever they've come across that they think is cool and want to share with the others. 
+We meet alternate Thursday evenings to discuss and share what we've learnt/come across/found interesting, and also to just hang out. There are no restrictions on what should be discussed, as long as it is related to theory. These usually tend to extend into the next morning!
 
-Warning: Can sometimes extend well into the next morning :D
+Two volunteers come prepared to teach topics of their choice to kick-off the discussion. Below are such topics from past Theory Thursdays: 
 
-To start off the discussion we usually have 2 volunteers who kickstart the discussion. The primary topics discussed in the previous sessions are logged below.
+### Upcoming Theory Thursday (Tentative)
 
-### Next talk topics
+| Date            | Speaker               | Topic                                      |
+| --------------- | --------------------- | ------------------------------------------ |
+| 19th August 2021 | Anurudh Peduri        | Haskell Lenses |
+| 19th August 2021 | Mayank Goel       | Extracting Morality Information from Text  |
 
-1. TBA
-2. TBA
-
-### Previous Topics
+### Previous Theory Thursdays
 
 | Date            | Speaker               | Topic                                      |
 | --------------- | --------------------- | ------------------------------------------ |
