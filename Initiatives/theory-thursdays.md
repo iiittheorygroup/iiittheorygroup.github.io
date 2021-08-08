@@ -26,17 +26,17 @@ To start off the discussion we usually have 2 volunteers who kickstart the discu
 
 | Date            | Speaker               | Topic                                      |
 | --------------- | --------------------- | ------------------------------------------ |
-| 8th August 2021 | Shashwat Singh        | Cordic Algorithms & Applications           |
-| 8th August 2021 | Abhinav S Menon       | CYK Parsing                                |
+| 5th August 2021 | Shashwat Singh        | Cordic Algorithms & Applications           |
+| 5th August 2021 | Abhinav S Menon       | CYK Parsing                                |
 | 22nd July 2021  | Bharathi Ramana Joshi | La Tour D'Hanoï                            |
 | 22nd July 2021  | Shirley               | Inverse Filtering of Room Acoustics        |
 | 8th July 2021   | Kunwar Shaanjeet      | From Bit to Screen - How Rendering Happens |
 | 8th July 2021   | Athreya C             | Matoušek's Miniature (Linear Algebra)      |
 | 24th June 2021  | L Lakshmanan          | Herbrand logic                             |
 | 24th June 2021  | Shirley               | Digital Signal Processing 101              |
-| 9th June 2021   | Shashwat Goel         | Zermelo's Theorem (game theory)            |
-| 9th June 2021   | Arpan Dasgupta        | Quaternions                                |
-| 9th June 2021   | Aman Rojjha           | Compression algorithms                     |
+| 10th June 2021  | Shashwat Goel         | Zermelo's Theorem (game theory)            |
+| 10th June 2021  | Arpan Dasgupta        | Quaternions                                |
+| 10th June 2021  | Aman Rojjha           | Compression algorithms                     |
 | 27th May 2021   | Alapan Chaudhuri      | Arrow's Impossibility Theorem              |
 | 27th May 2021   | Pratyaksh Gautam      | Graham-Pollak theorem                      |
 | 27th May 2021   | Aman Rojjha           | Compression algorithms                     |
@@ -44,6 +44,6 @@ To start off the discussion we usually have 2 volunteers who kickstart the discu
 | 1st April 2021  | Abhinav S Menon       | KMP using Haskell                          |
 | 18th March 2021 | Athreya C             | Basic coding theory                        |
 | 4th March 2021  | Mayank Goel           | Introduction to computational humor        |
-| 4thh March 2021 | Tanishq Chaudhary     | Introduction to computational humor        |
+| 4th March 2021  | Tanishq Chaudhary     | Introduction to computational humor        |
 
 
