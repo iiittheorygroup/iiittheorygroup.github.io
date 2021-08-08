@@ -9,7 +9,7 @@ Our Team
 ========
 
 - [Bharathi Ramana Joshi](https://bharathi.xyz/) - Admin (2020-)
-- [Kunwar Shaanjeet Singh Grover](https://groverkss.github.io/) - Admin (2020-)
+- [Kunwar Shaanjeet Singh Grover](https://groverkss.github.io/) - Moderator (2020-2021), Admin (2021-)
 - [Alapan Chaudari](https://banrovegrie.github.io/) - Moderator (2020-)
 - [Aman Rojjha](https://github.com/SarcasticNastik) - Moderator (2020-)
 - [Athreya C](https://cathreya.github.io/) - Moderator (2020-)
