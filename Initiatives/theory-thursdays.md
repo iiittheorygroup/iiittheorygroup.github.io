@@ -29,6 +29,20 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   + Teacher: Mayank Goel
 </details>
 
+## 05/08/2021
+
+<details>
+  <summary>Cordic Algorithms & Applications</summary>
+ 
+  + Teacher: Shashwat Singh
+</details>
+
+<details>
+  <summary>CYK Parsing</summary>
+ 
+  + Teacher: Abhinav S Menon
+</details>
+
 ### Previous Theory Thursdays
 
 | Date            | Speaker               | Topic                                      |
