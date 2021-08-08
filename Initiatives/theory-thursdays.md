@@ -15,7 +15,7 @@ We meet alternate Thursday evenings to discuss and share what we've learnt/found
 
 Two volunteers come prepared to teach topics of their choice to kick-off the discussion, an activity affectionately dubbed "Theory Thursday Teaching".
 
-## 22/08/2021 (Tentative)
+## 19th August 2021 (Tentative)
 
 <details>
   <summary>Haskell Lenses</summary>
