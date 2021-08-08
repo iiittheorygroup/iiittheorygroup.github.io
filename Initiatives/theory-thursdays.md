@@ -49,19 +49,22 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
 <details>
   <summary>La Tour D'Hanoï</summary>
 
-  + Speaker: Bharathi Ramana Joshi
+  + Speaker: [Bharathi Ramana Joshi](https://bharathi.xyz)
+  + [Link to slides](https://docs.google.com/presentation/d/1Xwm4XES3nXU_P6AqDk0uN_7wKNc2KicR7tp-2BAKz6I/edit?usp=sharing)
+  + [Link to Functional Pearl](https://www.cs.ox.ac.uk/ralf.hinze/publications/ICFP09.pdf)
 </details>
 
 <details>
   <summary>Inverse Filtering of Room Acoustics</summary>
 
   + Speaker: Shirley
+  + [Link to paper](http://www.asp.c.dendai.ac.jp/pub/sig_ac/MINT1988paper.pdf)
 </details>
 
 ## 08/07/2021
 
 <details>
-  <summary>From Bit to Screen - How Rendering Happens</summary>
+  <summary>Basics of X Window System</summary>
 
   + Speaker: Kunwar Shaanjeet
 </details>
@@ -70,7 +73,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   <summary>Matoušek's Miniature (Linear Algebra)</summary>
 
   + Speaker: Athreya C
-  + Resources: https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf
+  + Book: https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf
 </details>
 
 ## 24/06/2021
@@ -94,6 +97,7 @@ Two volunteers come prepared to teach topics of their choice to kick-off the dis
   <summary>Zermelo's Theorem (game theory)</summary>
 
   + Speaker: Shashwat Goel
+  + [Link to slides](https://docs.google.com/presentation/d/1mnloGBlVoA4r3uzEbzzH9kB1Z-173AUe1dgzOTJLNX0/edit?usp=sharing)
 </details>
 
 <details>
