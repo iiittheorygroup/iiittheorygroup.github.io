@@ -11,7 +11,7 @@ nav_order: 99
 Theory Thursdays
 =================
 
-We meet alternate Thursday evenings to discuss and share what we've learnt/come across/found interesting, and also to just hang out. There are no restrictions on what should be discussed, as long as it is related to theory. These usually tend to extend into the next morning!
+We meet alternate Thursday evenings to discuss and share what we've learnt/found interesting, and also to just hang out. There are no restrictions on what should be discussed, as long as it is related to theory. These usually tend to extend into the next morning!
 
 Two volunteers come prepared to teach topics of their choice to kick-off the discussion. Below are such topics from past Theory Thursdays: 
 
