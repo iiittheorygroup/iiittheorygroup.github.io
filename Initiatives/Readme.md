@@ -15,6 +15,10 @@ Here are the initiatives (both current and past) on the group, and we are always
 ----------------
 We meet alternate Thursday evenings to discuss and share what we've learnt/found interesting, and also to just hang out.
 
+[Reading Groups](/Initiatives/ReadingGroups)
+----------------
+People interested in learning a particular topic form a reading group.
+
 [Past Initiatives](/Initiatives/Past)
 ------------------------
 A list of initiatives that were run in the past.
