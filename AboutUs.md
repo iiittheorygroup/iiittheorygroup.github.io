@@ -23,4 +23,5 @@ Past Admins
 - [Anurudh Peduri](http://anurudhp.github.io/) - Admin (2018-2020)
 - [Arjun P](https://github.com/Superty) - Admin (2018)
 - [Nitin John Raj](https://github.com/njayinthehouse) - Admin (2018)
+- [Suryansh Srivastava](https://suryanshsrivastava.github.io/) - Admin (2019)
 - [Animesh Sinha](https://researchweb.iiit.ac.in/~animesh.sinha/home) - Admin (2020)
