@@ -33,5 +33,5 @@ Discord Server Structure
 More Links
 ==========
 1. [Public Calendar](http://tiny.cc/IIITHTheoryEvents)
-1. [Youtube Channel](Calendar)
+1. [Youtube Channel](https://www.youtube.com/channel/UCQUKpaixDgWH32q09Fu8-Xw)
 1. [GitHub Organization](https://github.com/iiittheorygroup/)
