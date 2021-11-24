@@ -19,9 +19,9 @@ Our Team
 Past Admins
 ===========
 
-- [Siddharth Bhat](http://bollu.github.io/) - Founder, Admin (2018-2020)
-- [Anurudh Peduri](http://anurudhp.github.io/) - Admin (2018-2020)
-- [Arjun P](https://github.com/Superty) - Admin (2018)
-- [Nitin John Raj](https://github.com/njayinthehouse) - Admin (2018)
+- [Siddharth Bhat](http://bollu.github.io/) - Co-founder, Admin (2018-2020)
+- [Anurudh Peduri](http://anurudhp.github.io/) - Co-founder, Admin (2018-2020)
+- [Arjun P](https://github.com/Superty) - Co-founder, Admin (2018)
+- [Nitin John Raj](https://github.com/njayinthehouse) - Co-founder, Admin (2018)
 - [Suryansh Srivastava](https://suryanshsrivastava.github.io/) - Moderator (2019-2020)
 - [Animesh Sinha](https://researchweb.iiit.ac.in/~animesh.sinha/home) - Admin (2020)
