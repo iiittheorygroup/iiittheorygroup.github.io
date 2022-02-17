@@ -5,18 +5,14 @@ nav_order: 50
 permalink: /Team
 ---
 
-Our Team
+Current Team
 ========
 
-- [Bharathi Ramana Joshi](https://bharathi.xyz/) - Admin (2020-)
 - [Kunwar Shaanjeet Singh Grover](https://groverkss.github.io/) - Moderator (2020-2021), Admin (2021-)
-- [Alapan Chaudari](https://banrovegrie.github.io/) - Moderator (2020-)
-- [Aman Rojjha](https://github.com/SarcasticNastik) - Moderator (2020-)
 - [Athreya C](https://cathreya.github.io/) - Moderator (2020-)
-- [Shashwat Goel](https://github.com/shash42) - Moderator (2020-)
 - [Kishore Kumar]() - Moderator (2021-)
 
-Past Admins
+Past Team
 ===========
 
 - [Siddharth Bhat](http://bollu.github.io/) - Co-founder, Admin (2018-2020)
@@ -25,3 +21,7 @@ Past Admins
 - [Nitin John Raj](https://github.com/njayinthehouse) - Co-founder, Admin (2018)
 - [Suryansh Srivastava](https://suryanshsrivastava.github.io/) - Moderator (2019-2020)
 - [Animesh Sinha](https://researchweb.iiit.ac.in/~animesh.sinha/home) - Admin (2020)
+- [Shashwat Goel](https://github.com/shash42) - Moderator (2020-2021)
+- [Alapan Chaudari](https://banrovegrie.github.io/) - Moderator (2020-2021)
+- [Aman Rojjha](https://github.com/SarcasticNastik) - Moderator (2020-2021)
+- [Bharathi Ramana Joshi](https://bharathi.xyz/) - Admin (2020-2022)
