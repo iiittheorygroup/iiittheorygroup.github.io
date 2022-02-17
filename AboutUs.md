@@ -8,9 +8,13 @@ permalink: /Team
 Current Team
 ========
 
-- [Kunwar Shaanjeet Singh Grover](https://groverkss.github.io/) - Moderator (2020-2021), Admin (2021-)
+- [Kunwar Shaanjeet Singh Grover](https://github.com/Groverkss) - Moderator (2020-2021), Admin (2021-)
 - [Athreya C](https://cathreya.github.io/) - Moderator (2020-)
 - [Kishore Kumar]() - Moderator (2021-)
+- [Abhinav Menon]() - Moderator (2021-)
+- [Pratyaksh Gautam]() - Moderator (2021-)
+- [Shashwat Singh]() - Moderator (2021-)
+- [Avyukta Manjunatha Vummintala]() - (2021-)
 
 Past Team
 ===========
