@@ -11,10 +11,9 @@ Initiatives
 ===========
 Here are the initiatives (both current and past) on the group, and we are always open to ideas. Feel free to suggest!
 
-[Theory Tuesdays](/Initiatives/TheoryTuesdays)
+[Theory Thursday](/Initiatives/TheoryThursdays)
 ----------------
-We meet alternate Tuesday evenings to discuss and share what we've learnt/found interesting, and also to just hang out.
-
+We meet alternate Thursday evenings to discuss and share what we've learnt/found interesting, and also to just hang out.
 
 [Reading Groups](/Initiatives/ReadingGroups)
 ----------------
