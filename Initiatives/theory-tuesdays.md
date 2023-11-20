@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Theory Tuesdays"
+title: "Theory Thursday"
 parent: "Initiatives"
 has_children: false
 has_toc: false
@@ -8,7 +8,7 @@ permalink: /Initiatives/TheoryTuesdays
 nav_order: 99
 ---
 
-Theory Tuesdays
+Theory Thursdays
 =================
 
 We meet alternate Tuesday evenings to discuss and share what we've learnt/found interesting, and also to just hang out. There are no restrictions on what should be discussed, as long as it is related to theory. These usually tend to extend into the next morning!

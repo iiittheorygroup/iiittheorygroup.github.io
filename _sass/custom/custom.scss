@@ -11,6 +11,14 @@
     max-width: unset !important;
   }
 }
+body {
+  // Change text color to blue
+  color: #46eae4; // Adjust the hex code to the shade of blue you desire
+
+  // Adjust background to a slightly lighter shade of white
+  background-color: #fdfdfd; // Adjust the hex code to your desired background color
+}
+
 
 // Proper styles for spoilers
 .custom-spoiler {
