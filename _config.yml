@@ -6,12 +6,13 @@ remote_theme: pmarsceill/just-the-docs
 
 
 # just-the-docs options
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+$link-color: $blue-000;
 # Aux links for the upper right navigation
 aux_links:
   "View source on GitHub":
     - "//github.com/iiittheorygroup/iiittheorygroup.github.io"
 aux_links_new_tab: true
 
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-$link-color: $blue-000;
+
