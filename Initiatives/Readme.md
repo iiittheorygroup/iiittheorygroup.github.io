@@ -15,7 +15,6 @@ Here are the initiatives (both current and past) on the group, and we are always
 ----------------
 We meet alternate Tuesday evenings to discuss and share what we've learnt/found interesting, and also to just hang out.
 
-Note: It was previously held on thursdays and called "Theory Thursdays", it has now been rescheduled to Tuesdays.
 
 [Reading Groups](/Initiatives/ReadingGroups)
 ----------------
