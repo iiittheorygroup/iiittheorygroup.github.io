@@ -36,3 +36,13 @@ Problem solving is a nice way for people to discuss and learn theory. This initi
 A problem will be posted in `#problem-of-the-week` on Saturday every week. And you'll be free to discuss it in the chat in `#potw-discussions` the Friday after it's posted. Everyone is also free to discuss older problems there (in case they didn't have time in a week to attempt it etc.)
 
 Note that the aim isn't to take a very difficult problem and solve it. It might be a very simple problem, but having an elegant solution, or emphasizing on a particular concept in a unique, interesting way.
+
+
+Theory Tuesdays
+=================
+
+We meet alternate Tuesday evenings to discuss and share what we've learnt/found interesting, and also to just hang out. There are no restrictions on what should be discussed, as long as it is related to theory. These usually tend to extend into the next morning!
+
+Two volunteers come prepared to teach topics of their choice to kick-off the discussion, an activity affectionately dubbed "Theory Tuesday Teaching". Below are topics people have taught in the past.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRdeuXB6y6GdUBmpQSAQq5HBD8UPZGJfnOH1vUM5Dky5pfOQRVA7HEUVUvH91f9TPb73oI6xeF5znt/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 30em;"></iframe>
