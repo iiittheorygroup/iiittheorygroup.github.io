@@ -8,15 +8,11 @@ permalink: /Team
 Current Team
 ========
 
-
-- [Abhinav Menon]() - Admin (2022-), Moderator (2021-2022)
-- [Kriti Gupta]() - Admin (2023-), Moderator (2022-2023)
-- [Druhan Shah]() - Admin (2023-), Moderator (2022-2023)
-  
-- [Kishore Kumar]() - Moderator (2021-)
-- [Pratyaksh Gautam]() - Moderator (2021-)
-- [Avyukta Manjunatha Vummintala]() - (2021-)
-- [Shashwat Singh]() - Moderator (2022-)
+- [Monish Singhal](https://github.com/mynameismon) - Admin (2024-), Moderator (2023-2024)
+- [Chinmay Sharma](https://ubermayinch.github.io/) - Admin (2024-)
+- [Vishesh Saraswat](https://github.com/vishesh312) - Moderator (2024-)
+- [Raghav Doshi](https://github.com/the-purple-jedi) - Moderator (2024-)
+- [Salvik Krishna]() - Moderator (2024-)
 
 Past Team
 ===========
@@ -33,3 +29,10 @@ Past Team
 - [Bharathi Ramana Joshi](https://bharathi.xyz/) - Admin (2020-2022)
 - [Athreya C](https://cathreya.github.io/) - Moderator (2020-2022)
 - [Kunwar Shaanjeet Singh Grover](https://github.com/Groverkss) - Admin (2021-2022), Moderator (2020-2021)
+- Abhinav Menon - Admin (2022-2023), Moderator (2021-2022)
+- Kriti Gupta - Admin (2023-2024), Moderator (2022-2023)
+- Druhan Shah - Admin (2023-2024), Moderator (2022-2023)
+- Kishore Kumar - Moderator (2021-2023)
+- Pratyaksh Gautam - Moderator (2021-2023)
+- Avyukta Manjunatha Vummintala - Moderator (2021-2023)
+- Shashwat Singh - Moderator (2022-2023)
