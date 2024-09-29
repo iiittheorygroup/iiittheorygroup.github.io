@@ -11,13 +11,11 @@ nav_order: 2
 Integration Bee
 =================
 
-It is a fun and exciting competition where students compete to solve integrals as fast as possible.
-
-The Integration Bee will consist of multiple rounds. After the written prelims, top performing participants will qualify for a single elimination playoff bracket. 
+A new event organized as a part of Felicity Buzz 2024. The Integration Bee will consist of multiple rounds, where participants would be solving challenging integrals as fast as possible. After the written prelims, top performing participants will qualify for a single elimination playoff bracket. 
 
 ### Preliminary Round Details:
 **Date:** 2nd October 2024
-**Venue:** TBA
+**Venue:** SH-1
 **Time:** 9 PM
 
 ### Final Round Details:
