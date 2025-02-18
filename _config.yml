@@ -1,4 +1,5 @@
 title: "IIIT Theory Group"
+repository: iiittheorygroup/iiittheorygroup.github.io
 markdown: CommonMarkGhPages
 commonmark:
   extensions: ["table"]

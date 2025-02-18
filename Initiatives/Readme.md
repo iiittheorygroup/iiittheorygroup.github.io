@@ -17,6 +17,10 @@ We meet alternate Thursday evenings to discuss and share what we've learnt/found
 
 Note: It was previously held on Tuesdays and called "Theory Tuesdays", it has now been rescheduled to Thursdays.
 
+[Seminar Saturdays](/Initiatives/Seminar-Saturdays)
+----------------
+Every fortnight, we meet to explore a single broad idea in depth.
+
 [Integration Bee](/Initiatives/IntegrationBee)
 ----------------
 A new event held during Felicity Buzz, where participants compete to solve integrals in a limited time.

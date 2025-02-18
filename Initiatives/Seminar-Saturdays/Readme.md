@@ -1,16 +1,18 @@
 ---
 layout: default
 title: Seminar Saturdays
+parent: "Initiatives"
 commit_tag: "[SS]"
 has_children: true
 permalink: /Initiatives/Seminar-Saturdays
-nav_exclude: true
+nav_order: 30
 ---
 
-Seminar Saturdays [Archived]
+Seminar Saturdays
 =================
 
-This event has been archived and is no longer active.
+Update: We are restarting Seminar Saturdays!
+
 
 An initiative where students present something of their choice every alternate week. It could be a research paper/topic/field/concept etc. A short 30-60 minute presentation, followed by an audience interaction.
 
@@ -18,9 +20,18 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 
 [Talk Recordings](https://www.youtube.com/playlist?list=PLcCKNfqBwtiU-C6jn-jgr3OaZG7Kwh7es)
 
+
+Upcoming Talks
+------
+1. Set cover in finite VC dimension: [Aditya Subramanian](https://adisubru.github.io/)
+   1. Time: 9PM
+   2. Date: 22nd February, 2025
+   3. Location: Vindhya A3-117 (link to join online will be shared on our Discord/Announcement group 10 minutes before the talk)
+   4. Talk Abstract: In this talk, we explore the intersection of combinatorics, geometry, and approximation algorithms through the concept of VC-dimension and its application to the Set Cover problem. After introducing the basics of VC-dimension and providing intuitive examples, we review the classic Set Cover problem: selecting the smallest subset of sets from a collection such that their union covers the entire universe. We then dive into a key result from the paper by Brönnimann and Goodrich (1995), which presents an approximation algorithm for the Set Cover problem when the set system has a bounded VC-dimension. This algorithm provides a significant improvement over previous approximation methods, achieving a near-optimal cover with a factor depending on the VC-dimension. By understanding this result, we gain insight into how geometric properties like VC-dimension can lead to more efficient solutions in computational geometry and related fields.
+2. (You could be here! Contact us) 
+
 Vision
 ------
+The seminars were initially started as a way to share ideas and learn theory together. We hosted talks on various topics given by current students. With time, we shifted the focus to research seminars. Research students in different fields would come and talk about their line of work, open problems and how it is in general. For the newer edition, we plan to host expository talks on various theoretical topics, balancing between breadth and depth.
 
-The seminars were initially started as a way to share ideas and learn theory together. We hosted talks on various topics given by current students. With time, we shifted the focus to research seminars. Research students in different fields would come and talk about their line of work, open problems and how it is in general.
-
-We are looking for active researchers (both current students and alumni) to come and give talks, and share their knowledge and experience with young aspiring researchers. While this event has been archived, if you are interested or know someone who is interested in giving a talk, please contact [our team](/Team)
+We are looking for active researchers (both current students and alumni; primarily graduate and post-doc students) to come and give talks, and share their knowledge and experience with young aspiring researchers. If you are interested or know someone who is interested in giving a talk, please contact [our team](/Team)
