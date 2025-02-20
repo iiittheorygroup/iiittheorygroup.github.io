@@ -23,11 +23,11 @@ Usually hosted on Zoom or Discord. If the speaker and audience permit, talks are
 
 Upcoming Talks
 ------
-1. Set cover in finite VC dimension: [Aditya Subramanian](https://adisubru.github.io/)
+1. A brief introduction to metric TSP: [Aditya Subramanian](https://adisubru.github.io/)
    1. Time: 9PM
    2. Date: 22nd February, 2025
    3. Location: Vindhya A3-117 (link to join online will be shared on our Discord/Announcement group 10 minutes before the talk)
-   4. Talk Abstract: In this talk, we explore the intersection of combinatorics, geometry, and approximation algorithms through the concept of VC-dimension and its application to the Set Cover problem. After introducing the basics of VC-dimension and providing intuitive examples, we review the classic Set Cover problem: selecting the smallest subset of sets from a collection such that their union covers the entire universe. We then dive into a key result from the paper by Brönnimann and Goodrich (1995), which presents an approximation algorithm for the Set Cover problem when the set system has a bounded VC-dimension. This algorithm provides a significant improvement over previous approximation methods, achieving a near-optimal cover with a factor depending on the VC-dimension. By understanding this result, we gain insight into how geometric properties like VC-dimension can lead to more efficient solutions in computational geometry and related fields.
+   4. Talk Abstract: The Travelling Salesperson Problem (TSP) is one of the most well-known and extensively studied problems in combinatorial optimization. As an NP-hard problem, solving TSP optimally for large instances is infeasible, making approximation algorithms essential. This talk will explore Christofides’ Algorithm, which provides a 3/2-approximation for metric TSP. We will walk through the key steps of the algorithm, including Minimum Spanning Trees (MSTs), Minimum Weight Perfect Matchings (MWPM), Eulerian Tours, and Shortcuts, and analyze its correctness and complexity.
 2. (You could be here! Contact us) 
 
 Vision
