@@ -14,7 +14,7 @@ Current Team
 - Navneet Gupta - Moderator (2025-)
 - Pratyush Vempati - Moderator (2025-)
 - Rishith Sunil - Moderator (2025-)
-- Salvik Nautiyal - Moderator (2025-)
+- Salvik Nautiyal - Moderator (2024-)
 - Sohan Thummala - Moderator (2025-)
 
 
