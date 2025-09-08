@@ -8,11 +8,15 @@ permalink: /Team
 Current Team
 ========
 
-- [Monish Singhal](https://github.com/mynameismon) - Admin (2024-), Moderator (2023-2024)
-- [Chinmay Sharma](https://ubermayinch.github.io/) - Admin (2024-)
-- [Vishesh Saraswat](https://github.com/vishesh312) - Moderator (2024-)
-- [Raghav Doshi](https://github.com/the-purple-jedi) - Moderator (2024-)
-- [Salvik Krishna]() - Moderator (2024-)
+- [Vishesh Saraswat](https://github.com/vishesh312) - Admin (2025-), Moderator (2024-2025)
+- [Raghav Doshi](https://github.com/the-purple-jedi) - Admin (2025-), Moderator (2024-2025)
+- Nandini Chakaravarthy - Moderator (2025-)
+- Navneet Gupta - Moderator (2025-)
+- Pratyush Vempati - Moderator (2025-)
+- Rishith Sunil - Moderator (2025-)
+- Salvik Nautiyal - Moderator (2025-)
+- Sohan Thummala - Moderator (2025-)
+
 
 Past Team
 ===========
@@ -35,5 +39,7 @@ Past Team
 - Avyukta Manjunatha Vummintala - Moderator (2021-2023)
 - Shashwat Singh - Moderator (2022-2023)
 - Kriti Gupta - Admin (2023-2024), Moderator (2022-2023)
-- Druhan Shah - Admin (2023-2024), Moderator (2022-2023)
+- [Druhan Shah](https://github.com/DruhanShah) - Admin (2023-2024), Moderator (2022-2023)
 - Aryaman Kohle - Moderator (2023-2024)
+- [Monish Singhal](https://github.com/mynameismon) - Admin (2024-2025), Moderator (2023-2024)
+- [Chinmay Sharma](https://ubermayinch.github.io/) - Admin (2024-2025)

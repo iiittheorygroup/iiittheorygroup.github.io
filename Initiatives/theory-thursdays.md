@@ -17,6 +17,10 @@ Volunteers come prepared to teach topics of their choice to kick-off the discuss
 
 Below are the topics we have covered this semester along with the slides for the presentations.
 
+1. [Diagrams and Limits in Category Theory](../Assets/2025_monsoon/Limits.pdf) by Druhan Shah
+
+Below are topics covered in older sessions retained for reference.
+
 1. [Philosophy 101](../Assets/2024_monsoon/philo101.md) by [Chinmay Sharma](ubermayinch.github.io)
 2. [Sprague-Grundy Theorem and Game of Nim](../Assets/2024_monsoon/Presentation.pdf) by Sohan Thumalla
 3. How to Read a Research Paper by Shirley
